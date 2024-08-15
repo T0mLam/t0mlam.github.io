@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tom Lam"
-  pronouns         : "he/him"
-  bio              : "ML enthusiast"
+  pronouns         : 
+  bio              : "First Year CS Student && ML enthusiast"
   location         : "Bristol, UK"
   employer         : "University of Bristol"
   uri              : # URL
