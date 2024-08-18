@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, welcome to my portfolio webpage! 👋"
+title: "Hi there, welcome to my portfolio website! 👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,11 +17,9 @@ I'm Tom, a ...
 
 <img src='/images/rubiks_cube.png' width=25> Rubik's cuber
 
-A data-driven personal website
+More about me ...
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am a first year computer science student from Hong Kong 🇭🇰 studying at the University of Bristol. I have a strong passion in data science and machine learning ([see my projects](https://t0mlam.github.io/projects/) 👀) and am actively seeking projects and internship opportunities in these fields.  I also have a solid foundation in data structures and algorithms which I enjoy solving coding problems on. [#Leetcoder](https://leetcode.com/u/TomLam1129/)🧑‍💻 For anyone who would like to contact me, feel free to send me a message via email or connect with me on linkedin, I would be happy to get to know you and answer any questions you may have to the best of my ability. Thank you for taking the time to read about my journey.
 
 Getting started
 ======

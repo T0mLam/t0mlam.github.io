@@ -17,9 +17,9 @@ gallery:
 As I am interested in data science and machine learning, much of my time is spent on creating side projects or re-implementing papers. Below you will find my recent projects that I did during my free time outside classes or on vacations which I am very proud of. 😆
 
 # LeNet-5 From Scratch 
-<a href="https://github.com/T0mLam/LeNet-5-from-scratch"><i class="fab fa-github" ></i></a>
-
 <div style="display: flex; justify-content: space-between;">
-    <img src='/images/projects/lenet-5-from-scratch/architecture.png' width='80%'>
-    <img src='/images/projects/lenet-5-from-scratch/app_demo.gif' width='20%'>
+    <img src='/images/projects/lenet-5-from-scratch/architecture.png' width='75%'>
+    <img src='/images/projects/lenet-5-from-scratch/app_demo.gif' width='25%'>
 </div>
+
+<a href="https://github.com/T0mLam/LeNet-5-from-scratch"><i class="fab fa-github" ></i></a>
