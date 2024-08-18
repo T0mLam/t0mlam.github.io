@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Tom L."
 title_separator          : "-"
 name                     : &name "Tom Lam"
-description              : &description "First Year Computer Science Student"
+description              : &description "First Year CS Student"
 url                      : "https://t0mlam.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "T0mLam/t0mlam.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Tom Lam"
   pronouns         : 
-  bio              : "First Year CS Student && ML enthusiast"
+  bio              : "First Year CS Student"
   location         : "Bristol, UK"
   employer         : "University of Bristol"
   uri              : # URL
@@ -236,6 +236,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: ""
