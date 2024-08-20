@@ -21,7 +21,7 @@ More about me ...
 ======
 I am a first year computer science student from Hong Kong 🇭🇰 studying at the University of Bristol. I have a strong passion in data science and machine learning ([see my projects](https://t0mlam.github.io/projects/) 👀) and am actively seeking projects and internship opportunities in these fields.  I also have a solid foundation in data structures and algorithms which I enjoy solving coding problems on. [#Leetcoder](https://leetcode.com/u/TomLam1129/)🧑‍💻 For anyone who would like to contact me, feel free to send me a message via email or connect with me on linkedin, I would be happy to get to know you and answer any questions you may have to the best of my ability. Thank you for taking the time to read about my journey.
 
-Getting started
+Experience ...
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
