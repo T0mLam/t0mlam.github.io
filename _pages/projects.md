@@ -14,13 +14,44 @@ gallery:
     title: "The LeNet-5 CNN Architecture"
 ---
 
+
 As I am interested in data science and machine learning, much of my time is spent on creating side projects or re-implementing papers. Below you will find my recent projects that I did during my free time outside classes or on vacations which I am very proud of. 😆
 
 
-# LeNet-5 From Scratch
+<!-- Landcover Segmentation with UNets -->
 
-<div class='widgets'>
-  <a href="https://github.com/T0mLam/LeNet-5-from-scratch"><i class="fab fa-github github-button"></i></a>
+
+<div class='title' style='margin-bottom: -10px;'>
+  <h1>Landcover Segmentation with UNets</h1>
+  <div class='widgets'>
+    <a href="https://github.com/T0mLam/Landcover-Segmentation-with-UNets">
+      <i class="fab fa-github github-button"></i>
+    </a>
+  </div>
+</div>
+
+<div class='badges'>
+  <img src='https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white'>
+  <img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black'>
+</div>
+
+Semantic segmentation of satellite images with [UNet](https://doi.org/10.1007/978-3-319-24574-4_28) and [ResUNet-a](https://arxiv.org/abs/1904.00592) in PyTorch.
+
+
+<!-- LeNet-5 From Scratch -->
+
+
+<div class='title' style='margin-bottom: -10px;'>
+  <h1>LeNet-5 From Scratch</h1>
+  <div class='widgets'>
+    <a href="https://github.com/T0mLam/LeNet-5-from-scratch">
+      <i class="fab fa-github github-button"></i>
+    </a>
+  </div>
+</div>
+
+<div class='badges'>
+  <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white'>
 </div>
 
 During the summer vacation after my foundation year, I took an [online course](https://tinyurl.com/bdr6href) on machine learning which really sparked my interest in deep neural networks. 🤩 Having nothing else to do as I was living in Bristol, I decided to spend my summer building a handwritten digit recognition app, marking the start of my journey in deep learning. 🥳
@@ -30,10 +61,22 @@ During the summer vacation after my foundation year, I took an [online course](h
     <img src='/images/projects/lenet-5-from-scratch/app_demo.gif' width='25%'>
 </div>
 
+
 <style>
+  .title {
+    display: flex;
+    
+    h1 {
+      margin-right: 10px;
+    }
+  }
+
+  .badges {
+    margin-top: 5px;
+  }
+
   .widgets {
-    margin-top: -10px;
-    margin-bottom: -5px;
+    transform: translateY(5px);
   }
 
   .images {
@@ -46,7 +89,6 @@ During the summer vacation after my foundation year, I took an [online course](h
     font-size: 20px;
     color: #449DD1;
     transition: transform 0.3s ease, color 0.3s ease;
-    margin-top: -15px;
   }
 
   .github-button:hover {
