@@ -2,6 +2,7 @@
 title: 'My First ML Project 👨🏻‍💻🤖 (sort of)'
 date: 2024-08-22
 permalink: /posts/2024/08/my-first-ml-project/
+toc: true
 tags:
   - Deep Learning 🤖
   - category1
@@ -9,6 +10,8 @@ tags:
 ---
 
 It is about everything interesting and challenging during the process of building my [LeNet-5 From Scratch](https://t0mlam.github.io/projects/) project. Please lower your expectation before clicking in. 😬🫣
+
+{% include toc %} 
 
 Headings are cool
 ======
