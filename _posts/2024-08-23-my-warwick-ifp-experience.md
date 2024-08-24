@@ -1,8 +1,7 @@
 ---
-title: 'My Warwick IFP experience'
+title: 'My Warwick IFP Experience'
 date: 2024-08-23
-permalink: /posts/2014/08/blog-post-3/
-toc: true
+permalink: /posts/2024/08/my-warwick-ifp-experience/
 tags:
   - Study Abroad
 ---

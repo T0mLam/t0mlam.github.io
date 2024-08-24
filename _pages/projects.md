@@ -15,7 +15,7 @@ gallery:
 ---
 
 
-As I am interested in data science and machine learning, much of my time is spent on creating side projects or re-implementing papers. Below you will find my recent projects that I did during my free time outside classes or on vacations which I am very proud of. 😆
+As I am interested in data science and deep learning, much of my time is spent on creating side projects or re-implementing papers. Below you will find my recent projects that I did during my free time outside classes or on vacations which I am very proud of. 😆
 
 
 <!-- Landcover Segmentation with UNets -->
@@ -25,7 +25,10 @@ As I am interested in data science and machine learning, much of my time is spen
   <h1>Landcover Segmentation with UNets</h1>
   <div class='widgets'>
     <a href="https://github.com/T0mLam/Landcover-Segmentation-with-UNets">
-      <i class="fab fa-github github-button"></i>
+      <i class="fab fa-github button"></i>
+    </a>
+    <a href="https://t0mlam.github.io/posts/2024/08/practicing-pytorch-and-image-segmentation/">
+      <i class="fa-solid fa-blog button"></i>
     </a>
   </div>
 </div>
@@ -45,7 +48,10 @@ Semantic segmentation of satellite images with [UNet](https://doi.org/10.1007/97
   <h1>LeNet-5 From Scratch</h1>
   <div class='widgets'>
     <a href="https://github.com/T0mLam/LeNet-5-from-scratch">
-      <i class="fab fa-github github-button"></i>
+      <i class="fab fa-github button"></i>
+    </a>
+    <a href="https://t0mlam.github.io/posts/2024/08/my-first-ml-project/">
+      <i class="fa-solid fa-blog button"></i>
     </a>
   </div>
 </div>
@@ -76,7 +82,10 @@ During the summer vacation after my foundation year, I took an [online course](h
   }
 
   .widgets {
-    transform: translateY(5px);
+    transform: translateY(-5px);
+    display: flex;
+    gap: 10px;
+    align-items: center;
   }
 
   .images {
@@ -84,14 +93,14 @@ During the summer vacation after my foundation year, I took an [online course](h
     justify-content: space-between;
   }
 
-  .github-button {
+  .button {
     display: inline-block;
     font-size: 20px;
     color: #449DD1;
     transition: transform 0.3s ease, color 0.3s ease;
   }
 
-  .github-button:hover {
+  .button:hover {
     transform: scale(1.2);
     color: #192BC2;
   }
