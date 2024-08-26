@@ -39,15 +39,130 @@ If you would like to know more about LeNet, I have linked another blog post [her
 
 I built a simple handwritten digit recognition app with my implementation of LeNet-5 as the model. 
 
+__What is so special about this project is that I did not use any deep learning libraries or auto-differentiation tools like PyTorch or Tensorflow, instead I created all neural network modules from simple mathematical functions provided by numpy, e.g. matrix multiplication & exponential functions.__
+
 <img src='/images/blogs/my-first-ml-project/app_demo.gif' style='width: 65%; margin: 0px auto; display: block;'>
 
-I have followed the architecture outlined in the original paper with several slight modifications. One of which was that I switched the original RBF output layer in the model to a Softmax layer in combination of the Cross Entropy Loss function which enabled me to display the output confidence / probability for each prediction. 
+I have followed the architecture outlined in the original paper with several slight modifications. One of which was that I switched the original RBF output layer in the model to a Softmax layer in combination with the Cross Entropy Loss function which enabled me to display the output confidence / probability for each prediction. 
 
 Here is the original architecture of the LeNet-5
 
 <img src='/images/blogs/my-first-ml-project/architecture.png'>
 
+Here is a high-level (1) overview of my implementation
+
+<img src='/images/blogs/my-first-ml-project/model_code.png'>
+
+# How I coded it up
+
+In summary, the model consists of 4 major components ...
+
+## Layers
+
+```python
+"""
+Includes ...
+1. conventional
+2. activation
+3. normalization 
+4. regularization 
+5. pooling
+layers
+"""
+class Layer:
+    def forward(self, X: NDArray, **kwargs) -> NDArray:
+        pass
+
+    def backward(self, grad: NDArray) -> NDArray:
+        pass
+
+    def __call__(self, *args, **kwargs):
+        return self.forward(*args, **kwargs)
+```
+
+The `Layer` class is the base class of all other building blocks the model. 
+
+__In forward propagation__, the `forward` method takes an input `X` and return a numpy 
+array as output after the layer operations.
+
+__In backpropagation__, each layer returns an output gradient, which usually consists of a calculation result of the derivative of the `forward` operations and the input gradients, to its previous layer in the model.
+
+## Sequential Class
+
+```python
+class Sequential:
+    def __init__(self, blocks: List[Layer]) -> None:
+        self.blocks = blocks
+        self.is_training = True    
+
+    def forward(self, X: NDArray) -> NDArray:
+        for block in self.blocks:
+            X = block(X, train=self.is_training)
+        return X
+
+    def backward(self, grad: NDArray) -> None:
+        for block in reversed(self.blocks):
+            grad = block.backward(grad)
+
+    def train(self) -> None:
+        self.is_training = True
+
+    def eval(self) -> None:
+        self.is_training = False
+
+    def __call__(self, *args, **kwargs):
+        return self.forward(*args, **kwargs)
+```
+
+You can think of it as a container of the layers. It allows the model to be executed sequentially at once instead of having to execute every layers manually in both forward and backward propagation. It also acts as a switch to control the behaviour of the layers depending on whether it is in training or testing stage.
+
+## Optimizer 
+
+```python
+class Optimizer:
+    def __init__(self, model: Sequential, lr: float) -> None:
+        self.model = model
+        self.lr = lr
+
+    def step(self):
+        pass
+```
+
+This is where the 'learning' of the model happens. The `step` function updates the learnable parameters of each layer by changing it's original value to a calculation result of it's value and the 'delta value' calculated during backpropagation. <br>
+e.g. 
+
+$$W_{new} = W_{old} - lr \times W_{change} \\ b_{new} = b_{old} - lr \times b_{change}$$
+
+with $W$ and $b$ being the weight and bias of a linear layer in gradient descent.
+
+
+## Criterion
+
+```python
+class Loss:
+    def forward(self, y: NDArray, y_pred: NDArray) -> float:
+        pass
+
+    def backward(self) -> NDArray:
+        pass
+
+    def __call__(self, *args, **kwargs):
+        return self.forward(*args, **kwargs)
+```
+
+The structure of the `Loss` is very similar to the `Layer` class. The only difference is that the criterion (loss) function takes `y` (the true label of the sample) and `y_pred` (the prediction made by the model) as input and returns a value representing the difference between the two. The backward function returns the derivative of the forward function and passes the output down layer by layer for backward propagation.
+
+There are also additional components outside the these major ones that I just mentioned. If you would like to know more in-depth how I created the modules, train and test the model, and integrating the model into the app, click the button below to view the source code.
+
+<a href="https://github.com/T0mLam/LeNet-5-from-scratch/">
+  <button class="btn btn--inverse">View My Repository</button>
+</a>
 
 # Challenges
 
+## Bad at maths 🙈
+
+I must admit I am not a maths genius. 😔
+
+## Unclear instructions 😢🤷‍♂️
 
