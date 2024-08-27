@@ -1,9 +1,56 @@
 ---
-title: 'My First ML Project 👨🏻‍💻🤖 (sort of)'
-date: 2024-08-22
+title: 'My First ML Project 👨🏻‍💻🤖'
+date: 2024-08-27
 permalink: /posts/2024/08/my-first-ml-project/
+toc: true
+toc_sticky: true
 tags:
   - Deep Learning 🤖
+gallery:
+  - url: blogs/my-first-ml-project/italy_trip/st_peters_basilica.jpg
+    image_path: blogs/my-first-ml-project/italy_trip/st_peters_basilica.jpg
+    title: "The interior of St. Peter's Basilica"
+    alt: "The interior of St. Peter's Basilica"
+
+  - url: blogs/my-first-ml-project/italy_trip/vatican.jpeg
+    image_path: blogs/my-first-ml-project/italy_trip/vatican.jpeg
+    title: "The view of the Vatican City"
+    alt: "The view of the Vatican City"
+
+  - url: blogs/my-first-ml-project/italy_trip/sphere_within_sphere.jpg
+    image_path: blogs/my-first-ml-project/italy_trip/sphere_within_sphere.jpg
+    title: "Sphere within a Sphere at the Vatican Museums"
+    alt: "Sphere within a Sphere at the Vatican Museums"
+
+  - url: blogs/my-first-ml-project/italy_trip/view_from_orange_garden.jpg
+    image_path: blogs/my-first-ml-project/italy_trip/view_from_orange_garden.jpg
+    title: "The sunset from the Orange Garden"
+    alt: "The sunset from the Orange Garden"
+
+  - url: blogs/my-first-ml-project/italy_trip/st_peters_basilica_main_entrance.jpg
+    image_path: blogs/my-first-ml-project/italy_trip/st_peters_basilica_main_entrance.jpg
+    title: "The main entrance of St. Peter's Basilica"
+    alt: "The main entrance of St. Peter's Basilica"
+
+  - url: blogs/my-first-ml-project/italy_trip/laocoon.jpg
+    image_path: blogs/my-first-ml-project/italy_trip/laocoon.jpg
+    title: "The statue of Laocoön and His Sons at the Vatican Museums"
+    alt: "The statue of Laocoön and His Sons at the Vatican Museums"    
+
+  - url: blogs/my-first-ml-project/italy_trip/trevi_fountain.jpg
+    image_path: blogs/my-first-ml-project/italy_trip/trevi_fountain.jpg
+    title: "The Trevi Fountain"
+    alt: "The Trevi Fountain"
+
+  - url: blogs/my-first-ml-project/italy_trip/colosseum.jpg
+    image_path: blogs/my-first-ml-project/italy_trip/colosseum.jpg
+    title: "The Colosseum"
+    alt: "The Colosseum"
+
+  - url: blogs/my-first-ml-project/italy_trip/inside_colosseum.jpg
+    image_path: blogs/my-first-ml-project/italy_trip/inside_colosseum.jpg
+    title: "Inside the Colosseum"
+    alt: "Inside the Colosseum"
 ---
 
 It is about everything interesting and challenging during the process of building my [LeNet-5 From Scratch](https://t0mlam.github.io/projects/) project. Please lower your expectation before clicking in. 😬🫣
@@ -206,4 +253,8 @@ Although the solution may seems trivial to you but I definitely struggled a lot 
 2. Find a mentor, it will make your life so much easier. 
 3. Don't worry if you do not understand a concept or maths, probably it is difficult and most people won't as well so you will be fine. 😹💀
 
-# Something Extra 
+# Somethings Extra ✨
+
+I actually wrapped up my project and finished creating the app for digit recognition on 6/8/2024, during my trip to Italy from 4/8 to 10/8 🇮🇹. So I might as well show some of the picture I took in Rome during the vacation. Thank you for reading to the end of this blog. ❤️ 
+
+{% include gallery %}

@@ -2,6 +2,7 @@
 permalink: /
 title: "Hi there, welcome to my portfolio website! 👋"
 author_profile: true
+comments: false
 redirect_from: 
   - /about/
   - /about.html
