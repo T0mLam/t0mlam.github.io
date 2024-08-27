@@ -10,7 +10,7 @@ It is about everything interesting and challenging during the process of buildin
 
 # How I got started in machine learning
 
-My interest in ML emerged during my computer science foundation year. At the time, one of my assignment for the English for Academic Purpose module was to write an essay about an ethical issue in the field of computer science that everyone should know. 
+My interest in ML emerged during my computer science foundation year. At the time, one of my assignments for the English for Academic Purpose module was to write an essay about an ethical issue in the field of computer science that everyone should know. 
 
 <img src='/images/blogs/my-first-ml-project/eap_essay.png' style='width: 65%; margin: -20px auto; display: block;'>
 
@@ -162,7 +162,36 @@ There are also additional components outside the these major ones that I just me
 
 ## Bad at maths 🙈
 
-I must admit I am not a maths genius. 😔
+I must admit I am not a maths genius. 😔 As I did not have much experience reading maths formulas before starting the projects, I found it very difficult to understand the operations and meaning behind a formula that I have never seen.
 
-## Unclear instructions 😢🤷‍♂️
+I also found it challenging to come up the `backward` function for the layers as I had no idea of how to find the derivative of the `forward` operations. 
 
+### My solutions
+
+What I decided to do was to find blog posts and articles on medium or stackoverflow that explained the maths and the intuition behind it instead of only relying on the paper. There are many posts related to machine learning and data science on those platforms so the topics you are looking for are likely going to be covered.
+
+As I did not have a mentor during the project, I had nobody to ask whenever I could not find a solution directly from internet searches. I had tried using AI tools like ChatGPT for help and it generally worked quite well. Just makes sure to test the code written by ChatGPT and see whether it gives the same results as expected. 🤫 Sometimes its output may contains obviously incorrections but you can always build on the output, fix the error and re-test the code.
+
+## Dealing with dimensions
+
+When you are building a neural network from scratch, you would need to pay more attention to the shapes of the input, output and the intermediate operations. During my coding process, I encounted many errors in unmatched dimensions especially in implementating the convolutional layer and the backpropagation for the model.
+
+### My solution
+
+The way I tried to reduce the difficulty in debugging is simply split the programs into modules and do unit tests. For example, rather than incorporating the optimizer into the sequential class, I split it into individual classes which enables me to test them separately. It ensures the code in each module is as minimal as possible. At the end of the testing stage, I would just piece the modules back to how it is supposed to work and test the entire integrated model.
+
+## Complex instructions 😢
+
+A problem beginners, including myself 🤡, are going to face is difficulty translating the paper into code. What I meant by that is some papers I have seen focused on showcasing the novel methodology the authors proposed and the results they have achieved. The architectures are also thoroughly explained but prior knowledge is expected from the readers. Without any experience reading ML papers, I found the description for the model implementation quite confusing. 😅
+
+In this project, the one problem that got me stucked the longest is creating the RBF output layer for LeNet-5 model.
+
+<img src='/images/blogs/my-first-ml-project/rbf_desc.png' style='width: 65%; margin: 0px auto; display: block;'>
+
+I did not understand how the dimension of the output could converge to (batch size, 10) for evaluting loss given the $w$ ascii maps is possibly in the shape of (number of digit maps, height, width) and the input size is in (batch size, 84). I also had no idea how I was supposed to train the model with only the input from previous layer passed in as there would be no ways to find the class that the truth label belongs to and find the corresponding digit map to compare against.
+
+### My solution
+
+As you would have guessed it, I gave up trying on my own. 😂 I searched for some tutorials on Youtube but nothing related showed up. Very fortunitely, I found an implementation of LeNet-5 on github by [mattwang44](https://github.com/mattwang44/LeNet-from-Scratch). I read his code 
+
+# Something Extra 
