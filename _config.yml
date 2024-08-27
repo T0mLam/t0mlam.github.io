@@ -346,3 +346,15 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+comments:
+  giscus:
+    enabled: true
+    repo: "T0mLam/t0mlam.github.io"
+    repo_id: "843065679"
+    category: "Announcements"
+    category_id: "DIC_kwDOEdxynM4CThkc"
+    mapping: "pathname"
+    reactions_enabled: "1"
+    theme: "light"

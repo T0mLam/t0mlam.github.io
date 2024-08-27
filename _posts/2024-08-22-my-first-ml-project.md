@@ -131,9 +131,9 @@ class Optimizer:
 This is where the 'learning' of the model happens. The `step` function updates the learnable parameters of each layer by changing it's original value to a calculation result of it's value and the 'delta value' calculated during backpropagation. <br>
 e.g. 
 
-$$W_{new} = W_{old} - lr \times W_{change} \\ b_{new} = b_{old} - lr \times b_{change}$$
+$$W_{new} = W_{old} - lr \times \frac{\partial L}{\partial W_{old}} \\ b_{new} = b_{old} - lr \times \frac{\partial L}{\partial b_{old}}$$
 
-with $W$ and $b$ being the weight and bias of a linear layer in gradient descent.
+with $W$ and $b$ being the weight and bias of a linear layer, and $L$ being the loss evaluated by the derivative of the loss function in gradient descent.
 
 
 ## Criterion
@@ -188,10 +188,22 @@ In this project, the one problem that got me stucked the longest is creating the
 
 <img src='/images/blogs/my-first-ml-project/rbf_desc.png' style='width: 65%; margin: 0px auto; display: block;'>
 
-I did not understand how the dimension of the output could converge to (batch size, 10) for evaluting loss given the $w$ ascii maps is possibly in the shape of (number of digit maps, height, width) and the input size is in (batch size, 84). I also had no idea how I was supposed to train the model with only the input from previous layer passed in as there would be no ways to find the class that the truth label belongs to and find the corresponding digit map to compare against.
+I did not understand how the dimension of the output could converge to (batch size, 10) for evaluting loss given the $w$ ascii maps array is possibly in the shape of (number of digit maps, height, width) and the input size is in (batch size, 84). I also had no idea how I was supposed to train the model with only the input from previous layer passed in as there would be no ways to find the class that the truth label belongs to and find the corresponding digit map to compare against.
 
 ### My solution
 
-As you would have guessed it, I gave up trying on my own. 😂 I searched for some tutorials on Youtube but nothing related showed up. Very fortunitely, I found an implementation of LeNet-5 on github by [mattwang44](https://github.com/mattwang44/LeNet-from-Scratch). I read his code 
+As you would have guessed it, I gave up trying on my own. 😂 I searched for some tutorials on Youtube but nothing related showed up. Very fortunitely, I found an implementation of LeNet-5 on github by [mattwang44](https://github.com/mattwang44/LeNet-from-Scratch) (he graduated from National Taiwan University, so I assumed he must be smart 😛🤓). I read his code and finally understand how it works.
+
+I realized I would need to split the layer into train and test mode. In train mode, the train image `x` and truth label `y` will be the input of the model which enables the RBF layer to have the class that the truth label belongs to and find the corresponding digit map to compare against and returns a vector of (batch size, 1) representing the difference for the loss function to optimize. In test mode, only the train image `x` will be required for the input, and the output will be a list of differences between the input and all digit maps. The digit map with the lowest difference will be chosen as the output class using argmax.
+
+To address the dimension problems, I should first flatten the corresponding digit map from a dimension of (height, width) to an 1d array (height * width,) before calculating the dot product with the 2d input vector.
+
+Although the solution may seems trivial to you but I definitely struggled a lot in wrapping my head around how it works. 😿
+
+# 3 Key Takeaways
+ 
+1. Find and read others' implementations on the same project, there are always much to learn from. 
+2. Find a mentor, it will make your life so much easier. 
+3. Don't worry if you do not understand a concept or maths, probably it is difficult and most people won't as well so you will be fine. 😹💀
 
 # Something Extra 

@@ -40,6 +40,12 @@ As I am interested in data science and deep learning, much of my time is spent o
 
 Semantic segmentation of satellite images with [UNet](https://doi.org/10.1007/978-3-319-24574-4_28) and [ResUNet-a](https://arxiv.org/abs/1904.00592) in PyTorch.
 
+<div class="images">
+    <img src='/images/projects/landcover-segmentation-with-unets/segmentation_results.png' width='100%'>
+</div>
+
+The 
+
 
 <!-- LeNet-5 From Scratch -->
 
