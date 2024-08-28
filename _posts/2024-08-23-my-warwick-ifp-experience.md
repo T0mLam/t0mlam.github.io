@@ -82,10 +82,31 @@ If you are aiming for Warwick computer science:
 - __Computer Science__:  Aim for > 70%
 - __IRS for Maths__: Do your best 🤣, at least get a 70% overall
 
+Although getting 90% in the maths class tests may seems a little out of reach, but I promised you it was possible as long as you have the resources and are willing to spend time revising. Here is my IFP transcript.
+
 <img src='/images/blogs/my-warwick-ifp-experience/ifp_grades.png'>
+
+Remember the Warwick IFP qualification is equivalent to the GCE A-level, so you can expect the curriculum and exam question types to be very similar. I have used some a level past papers for revision and I found them to be helpful so I will share those with you below.
 
 ## Pure Maths
 
+The assessments I had for the modules were 2 class tests (each accounts for 25% of the final grade) and a final exam (accounts for 50%). 
+
+I recommend aiming for higher scores in class tests because the questions are typically shorter, easier, and more focused, unlike final exams, where each question can cover a mix of topics. It also takes pressure off you and enables you to spend more time revising for STEP or other the admission tests in the final term.
+
+### Topics to be covered
+Polynomials, partial fraction & binomial expansion, sequence & series, exponential & logorithms, trigonometry, conic sections, coordinate geometry, differentiation & integration, complex numbers, mathematical logic, method of proof, set, function
+
+
+### How to revise
+
+For each pure maths topic, there will be a lecture note you get from lecture and a seminar problems sheet. It is very likely you would not have sufficient time to finish the worksheet during seminars, but make sure to finish them after classes as those are great study materials. Also make sure to attend the formative class tests, exams and finish all the revision worksheets.
+
+Additionally, you can search for a levels maths past papers from `physicsandmathstutor.com`. You can find all questions by topics by clicking into any exam boards.
+
+<img src='/images/blogs/my-warwick-ifp-experience/maths_pp.png'>
+
+I have attached the link [here](https://www.physicsandmathstutor.com/maths-revision/).
 
 ## Further Maths
 
@@ -94,6 +115,14 @@ If you are aiming for Warwick computer science:
 
 
 ## Inquiry & Research Skills for Maths
+
+## IELTS
+
+# Key Takeaways
+
+- Be proactive
+- Perception
+- Mark scheme > Creativity
 
 # Admission Tests Advices
 

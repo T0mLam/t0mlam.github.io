@@ -253,6 +253,6 @@ Although the solution may seems trivial to you but I definitely struggled a lot 
 
 # Something Extra ✨
 
-I actually wrapped up my project and finished creating the app for digit recognition on 6/8/2024, during my trip to Italy from 4/8 to 10/8 🇮🇹. So I might as well show some of the picture I took in Rome during the vacation. Thank you for reading to the end of this blog. ❤️ 
+I wrapped up my project and finished creating the app for digit recognition on 6/8/2024, during my trip to Italy from 4/8 to 10/8 🏖️🇮🇹. So I might as well show some of the picture I took in Rome during the vacation. Thank you for reading to the end of this blog. ❤️ 
 
 {% include gallery %}
