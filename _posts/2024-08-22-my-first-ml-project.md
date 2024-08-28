@@ -3,7 +3,6 @@ title: 'My First ML Project 👨🏻‍💻🤖'
 date: 2024-08-27
 permalink: /posts/2024/08/my-first-ml-project/
 toc: true
-toc_sticky: true
 tags:
   - Deep Learning 🤖
 gallery:
@@ -127,10 +126,9 @@ class Layer:
         return self.forward(*args, **kwargs)
 ```
 
-The `Layer` class is the base class of all other building blocks the model. 
+The `Layer` class is the base class of all other building blocks of the model. 
 
-__In forward propagation__, the `forward` method takes an input `X` and return a numpy 
-array as output after the layer operations.
+__In forward propagation__, the `forward` method takes an input `X` and return a numpy array as output after the layer operations.
 
 __In backpropagation__, each layer returns an output gradient, which usually consists of a calculation result of the derivative of the `forward` operations and the input gradients, to its previous layer in the model.
 
@@ -253,7 +251,7 @@ Although the solution may seems trivial to you but I definitely struggled a lot 
 2. Find a mentor, it will make your life so much easier. 
 3. Don't worry if you do not understand a concept or maths, probably it is difficult and most people won't as well so you will be fine. 😹💀
 
-# Somethings Extra ✨
+# Something Extra ✨
 
 I actually wrapped up my project and finished creating the app for digit recognition on 6/8/2024, during my trip to Italy from 4/8 to 10/8 🇮🇹. So I might as well show some of the picture I took in Rome during the vacation. Thank you for reading to the end of this blog. ❤️ 
 
