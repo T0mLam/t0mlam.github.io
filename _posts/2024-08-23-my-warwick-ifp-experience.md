@@ -173,21 +173,34 @@ I have linked the page [here](https://www.physicsandmathstutor.com/computer-scie
 
 I believed the syllabus for IRS for Maths in going to be changed in 24/25 so the assignments I did probably would not be relevant to you.
 
+However, there are 2 suggestions I think will always be useful.
 
+1. __'Be proactive, not reactive' - a wise man__ 🥸 <br>
+Always start your work as early as possible. I nearly finished my research poster before the spring break in April, while everyone is just about to start. As I begin the poster early on, I was able to get 7 feedback in total from my IRS tutor (thanks 😊) which gradually improved the quality of my poster. It also left a good impression on my IRS tutor which I believe was reflected on the grade of my poster. 
+
+2. __Do not overcomplicate the research__ <br>
+The purpose of the IRS module is to give us hands-on research experience and prepare us for research in our undergraduate studies. I was overly ambitious in the beginning of the research as I was trying to improve sorting algorithms with machine learning, which clearly would not work out. 🙈 Even if I invented a new algorithm, I would not have scored any better because it is not a criteria in the mark scheme. I ended up choosing 'How COVID-19 affected the UK economy' as my research question, which I believe was a smart decision. I was able to get timeseries data very easily for statistical analysis and abundant of literatures for triangulation as it was a hot topic. So just because your research question is trivial does not mean you would not do great in the assignment.
 
 ## IELTS
 
+During the IFP, an advice I heard from the UCAS advisors very often is to leave IELTS to the end and focus on the EAP.
+
+Well, I have to admit the EAP was very helpful and I learnt a lot about academic writing from the lessons. However, it really depends and I personally would prefer taking IELTS as soon as possible. 
+
+Before I arrived at Warwick, I knew I would need to retake IELTS because I only had 5.5 in the speaking test I took half a year before. Therefore, I bought my first IELTS exercise book from Amazon in early October and a second one in early November. I did the exercise books alongside my revision for EAP reading and listening and the EAP essay. I scheduled the IELTS exam on 20/12 and ended up scoring 6.5 in speaking, 9 in reading and listening and 7 in writing. I also did well in the EAP test, scoring 74% in reading and 88% in both listening and writing.
+
+It shows that it is possible to focus on both the EAP and the IELTS exam, __if your biggest weakness in verbal communication__ instead of reading and writing which are more difficult to improve in a short timeframe.
+
+Having the IELTS score sorted before the second term allowed me to not having to worry about my EAP speaking test in the final term, and not having to bother to re-sit my EAP reading and listening test which saved me quite a lot of revision time. Also note that not all universities accept the EAP qualification, so you might want to focus on your IELTS exam if you are interested in one that would require you to have IELTS, e.g. Imperial.
+
 # Key Takeaways
 
-- Be proactive
-- Perception
-- Mark scheme > Creativity
-
-# Admission Tests Advices
+- __Be proactive:__ Always start your assignment or revision early. Do not wait until
+- __Perception:__
+- __Mark scheme > Creativity"__
 
 # Other Advices
 
 
 # Just Enjoy
 
-fdsdkfldsfsdfldfsafdsfsafjfafafjdgaijagosgjgjgijgsgiosajgigjgoigjaogigjgisjgaogj
