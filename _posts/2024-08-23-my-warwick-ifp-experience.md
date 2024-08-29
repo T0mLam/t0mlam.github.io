@@ -97,12 +97,11 @@ I recommend aiming for higher scores in class tests because the questions are ty
 ### Topics to be covered
 Polynomials, partial fraction & binomial expansion, sequence & series, exponential & logorithms, trigonometry, conic sections, coordinate geometry, differentiation & integration, complex numbers, mathematical logic, method of proof, set, function
 
-
 ### How to revise
 
 For each pure maths topic, there will be a lecture note you get from lecture and a seminar problems sheet. It is very likely you would not have sufficient time to finish the worksheet during seminars, but make sure to finish them after classes as those are great study materials. Also make sure to attend the formative class tests, exams and finish all the revision worksheets.
 
-Additionally, you can search for a levels maths past papers from `physicsandmathstutor.com`. You can find all questions by topics by clicking into any exam boards.
+Additionally, you can search for a level maths past papers from `physicsandmathstutor.com`. You can find all questions by topics by clicking into any exam boards.
 
 <img src='/images/blogs/my-warwick-ifp-experience/maths_pp.png'>
 
@@ -110,11 +109,71 @@ I have attached the link [here](https://www.physicsandmathstutor.com/maths-revis
 
 ## Further Maths
 
+The advice I gave in the [Pure Maths](#pure-maths) section also applies to further maths. I would suggest to score higher on the class tests and be sure to finish all the revision materials on Moodle.
+
+### Topics to be covered
+
+__Statistics:__ binomial distribution, continuous random variable, continuous uniform distribution, correlation & regression, discrete random variables, geometry distribution, normal approximation, normal distribution, poisson distribution, probability, sample statistics
+ 
+ __Further Maths:__ matrix & determinants, vector & geometry, linear transformation, vector cross product, partial differentiation, first-order differential equation, second-order differential equation, maclaurin & taylor series
+
+### How to revise
+
+Attend all the revision lectures and finish the exam type questions on Moodle. Even if you are not in the further maths support class, you can still find the worksheet on Moodle for revision.
+
+I found all the past papers for a level further maths from `physicsandmathstutor.com`. You won't need to revise mechanics and most topics from additonal pure.
+
+<img src='/images/blogs/my-warwick-ifp-experience/fm_pp.png'>
+
+I have attached the link [here](https://www.physicsandmathstutor.com/maths-revision/).
 
 ## CS
 
+The assignments that I had were a individual presentation (17%), a group programming project (40%) and a final written exam (43%).
+
+### Individual presentation
+
+The presentation I did was a 5-minute presentation on an ethical issue related to social media platforms. The advice I would give is to be more in-depth in the presentation. What I meant by more in-depth is not only including more figures to support your arguments, but also explain the algorithms behind the technology as much as possible, which is the opposite of the EAP style presentation. And more importantly, make sure your presentation meets all the requirements in the mark scheme and do not go over the time limit. (I knew sb who got ~40% in the assignment bc his presentation got over-time and end up not being marked 🥲)
+
+Don't be too harsh on yourself if you do not score well, there are too much uncertainty in this assignment, e.g. your english proficiency, different interpretations on the mark scheme, w̶h̶e̶t̶h̶e̶r̶ t̶h̶e̶ t̶e̶a̶c̶h̶e̶r̶ l̶i̶k̶e̶s̶ y̶o̶u̶. 🤓 I scored >70% on the assignment but most people scored around 60% and some scored <50% so good luck to you. 😬
+
+### Group project
+
+The topic of our group project was 'A game of chance', which was the same topic as the one in 2021. We had to finish the code, user manual and an individual report in a month during the spring break in April.
+
+There are 3 tips to score highly in the project
+
+1. __Make sure you understand the mark scheme:__ You might be very passion about the project and you would want to add a 3D interface to your app. There is no problem with that but keep in mind to add as many data structures and algorithms or whatever that is emphasized in the mark scheme into your project. Also, remember to do unit tests for each module you wrote, as it is often overlooked and would cause you to lose marks in testing and debugging.
+
+2. __The key is on how you said you did something:__ The individual report is a game-changer. In my group, depsite we all had the same score for the code, our final score differed by ~15% because of the individual report. Don't start the report after implementing the code, spare >2 weeks to fill it in. Track all your work using Github project or any tools you want to display it as evidence that you follow the software development methodology.
+
+3. __Complexity + Theoritical understanding:__ These are what the markers are looking for. A large part of the project is to test our understanding in data structures and algorithms, and display it in the individual report.  <br><br>
+For example, 'My aim was to develop a program which randomly generates a complete graph which allows the players to pick their desired starting node and ending node in the game. I have
+researched into the Erdos Renyi graph (Frieze and Karoński, 2015), which is a probability-based random graph generation algorithm that ... Unfortunitely, the attempts were unsuccessful as ... Therefore, to ensure ..., I have created my own algorithm. {explain steps}. As the python set
+does not support the random extraction operation, I created a RandomisedSet which consists of an edge list and a hashmap that maps each edge to its index stored in the list. A randomly edge is picked by a random choice on the edge list and extracted by swapping the edge with the last element of the list and pop it out, which is an $O(1)$ operation in expense of additional memory. <br><br>
+Another example, 'For the search functions in the leaderboard page, I have used a trie data structure to
+store the names of all players by storing individual alphabets as nodes in the tree.
+It enabled the autocompletion of the user search using a backtracking DFS. The search
+results method utilized a fizzy search algorithm using a dynamic programming approach
+proposed by ... It allows a certain degree of error in the user
+search within a Levenshtein Distance threshold by using a 2D matrix to keep track of
+the LD difference of every combinations with the search input while traversing the trie.'
+
+I hope you get the idea 🤓👍
+
+### Final exam
+
+I am glad you have read to this point. 😊 Generally, student will only have access to exam revision materials just before the final exam, but you can have it now so you are now ahead of everyone. 🤣
+
+Do the A-level CS questions by topic on `physicsandmathstutor.com`. I know this is the third time I mentioned the site but this is very important. One of the binary number questions on the IFP exam revision worksheet is exactly taken from a-level past paper but with changed values.
+
+I have linked the page [here](https://www.physicsandmathstutor.com/computer-science-revision/). You can do questions from both exam boards, it does not matter.
 
 ## Inquiry & Research Skills for Maths
+
+I believed the syllabus for IRS for Maths in going to be changed in 24/25 so the assignments I did probably would not be relevant to you.
+
+
 
 ## IELTS
 
