@@ -1,10 +1,55 @@
 ---
-title: 'My Warwick IFP Experience ▼▼'
+title: 'Advice and Insights for the Warwick IFP CS Pathway ▼▼'
 date: 2024-08-23
-permalink: /posts/2024/08/my-warwick-ifp-experience/
+permalink: /posts/2024/08/advice-and-insights-for-the-warwick-ifp-cs-pathway/
 toc: true
 tags:
   - Study Abroad
+gallery:
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2821.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2821.jpg
+    title: "26/9/2023: The first day of welcoming events, saw my personal tutor Amanda 🙂"
+    alt: "26/9/2023: The first day of welcoming events, saw my personal tutor Amanda 🙂"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2884.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2884.jpg
+    title: "3/10/2023: Walking to attend seminars at the Avon Building after the welcome week"
+    alt: "3/10/2023: Walking to attend seminars at the Avon Building after the welcome week"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2890.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2890.jpg
+    title: "4/10/2023: Walking to the WE building where we attend lectures"
+    alt: "4/10/2023: Walking to the WE building where we attend lectures"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2907.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2907.jpg
+    title: "5/10/2023: First time attending pure maths seminar at the Mathematical Science Building"
+    alt: "5/10/2023: First time attending pure maths seminar at the Mathematical Science Building"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2932.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2932.jpg
+    title: "7/10/2023: Forgot the bring my room key fob with me during laundry, it was a very embarrassing moment 🤣"
+    alt: "7/10/2023: Forgot the bring my room key fob with me during laundry, it was a very embarrassing moment 🤣"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2999.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2999.jpg
+    title: "16/10/2023: First time taking a bus to lessons, don't wanna walk anymore 🥱"
+    alt: "16/10/2023: First time taking a bus to lessons, don't wanna walk anymore 🥱"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3011.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3011.jpg
+    title: "18/10/2023: At Aroma, where you would see me every afternoon 😬"
+    alt: "18/10/2023: At Aroma, where you would see me every afternoon 😬"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3074.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3074.jpg
+    title: "26/10/2023: The first and only time I stepped out of my comfort zone and joined the weekly competition organized by the rubik's cube society 😶‍🌫️"
+    alt: "26/10/2023: The first and only time I stepped out of my comfort zone and joined the weekly competition organized by the rubik's cube society 😶‍🌫️"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3244.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3244.jpg
+    title: "5/12/2023: Farewell to my computer science tutor Leonardo, thanks for your kind words in the reference letter 😊"
+    alt: "5/12/2023: Farewell to my computer science tutor Leonardo, thanks for your kind words in the reference letter 😊"
 ---
 
 Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 #ValuableInsights #DefinitelyNotClickbeit
@@ -13,7 +58,7 @@ Read this article if you are a prospective Warwick IFP student who wants to know
 
 The reality hurts.
 
-<img src='/images/blogs/my-warwick-ifp-experience/ucas_result.png'>
+<img src='/images/blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/ucas_result.png'>
 
 In Warwick IFP '24, only 2 students are accepted to UCL CS and 0 accepted to Imperial computing in ~50 CS students. And I believe nobody got the interview from Imperial.
 
@@ -84,7 +129,7 @@ If you are aiming for Warwick computer science:
 
 Although getting 90% in the maths class tests may seems a little out of reach, but I promised you it was possible as long as you have the resources and are willing to spend time revising. Here is my IFP transcript.
 
-<img src='/images/blogs/my-warwick-ifp-experience/ifp_grades.png'>
+<img src='/images/blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/ifp_grades.png'>
 
 Remember the Warwick IFP qualification is equivalent to the GCE A-level, so you can expect the curriculum and exam question types to be very similar. I have used some a level past papers for revision and I found them to be helpful so I will share those with you below.
 
@@ -103,7 +148,7 @@ For each pure maths topic, there will be a lecture note you get from lecture and
 
 Additionally, you can search for a level maths past papers from `physicsandmathstutor.com`. You can find all questions by topics by clicking into any exam boards.
 
-<img src='/images/blogs/my-warwick-ifp-experience/maths_pp.png'>
+<img src='/images/blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/maths_pp.png'>
 
 I have attached the link [here](https://www.physicsandmathstutor.com/maths-revision/).
 
@@ -123,7 +168,7 @@ Attend all the revision lectures and finish the exam type questions on Moodle. E
 
 I found all the past papers for a level further maths from `physicsandmathstutor.com`. You won't need to revise mechanics and most topics from additonal pure.
 
-<img src='/images/blogs/my-warwick-ifp-experience/fm_pp.png'>
+<img src='/images/blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/fm_pp.png'>
 
 I have attached the link [here](https://www.physicsandmathstutor.com/maths-revision/).
 
@@ -195,12 +240,26 @@ Having the IELTS score sorted before the second term allowed me to not having to
 
 # Key Takeaways
 
-- __Be proactive:__ Always start your assignment or revision early. Do not wait until
-- __Perception:__
-- __Mark scheme > Creativity"__
+- __Be proactive:__ Always start your assignment or revision early, begin planning your assignment as soon as it is release.
+
+- __Perception >= Ability:__ Leave a good impression on your teachers as they will be grading your assignments and giving your predicted grades. Attend as many lessons as your can and sit in the front rows during lectures. It does not matter that you are not the best at maths or coding (j̶u̶s̶t̶ l̶i̶k̶e̶ m̶e̶ 😔), I am sure you will get the grades you desired if you work hard and can display to the markers that you put a lot of effort into your work.
+
+- __Mark scheme > Creativity:__ In the IFP, I knew someone who coded a wonderful game with graphics and a storyline as their programming assignment. I tried his game amd it was actually fun to play and very relatable. In comparison, my 'game' was just a program that incorporated all the requirements from the mark scheme and I would not call it playable. My project ended up scoring higher and I felt unfortunate for him because his idea was very creative. So do not be discouraged if you do not do well in the programming assignment, I am sure your project worth more than the number on the mark scheme, and you are a good programmer regardless of your grades in the IFP.
 
 # Other Advices
 
+1. Have regular phone calls with your friends and family, they are your strongest mental support. ❤️
+2. Get a bus pass from the NXBus mTicket app. It saves you so much time travelling from the central campus to West Wood.
+3. Explore other cities during the holidays. I went on a week trip to London in the winter break to escape from my work. Be sure to relax and have fun during the winter holiday, as you won't have much time in terms 2 and 3.
 
-# Just Enjoy
+# Just Enjoy the Journey
 
+Studying in the IFP was the first time I left my parents to study abroad on my own, and I believe it will be your first experience as well. I genuinely learned and grew so much over the year. No matter what your results are, whether you get into your dream university or make new friends, I am sure you will have a memorable experience at Warwick, whether it's hanging out with friends in Leamington or stressing about final exams.
+
+Thank you very much for reading to the end of this blog. Wish you all the best in your future endeavors and have fun 😆💪. 
+
+# Memories & Moments
+
+Here are some photos I took during the Warwick IFP, click on it to see the descriptions.
+
+{% include gallery %}
