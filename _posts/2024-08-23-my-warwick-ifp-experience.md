@@ -6,48 +6,48 @@ toc: true
 tags:
   - Study Abroad
 gallery:
-  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2821.jpg
-    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2821.jpg
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2821.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2821.jpg
     title: "26/9/2023: The first day of welcoming events, saw my personal tutor Amanda 🙂"
     alt: "26/9/2023: The first day of welcoming events, saw my personal tutor Amanda 🙂"
 
-  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2884.jpg
-    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2884.jpg
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2884.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2884.jpg
     title: "3/10/2023: Walking to attend seminars at the Avon Building after the welcome week"
     alt: "3/10/2023: Walking to attend seminars at the Avon Building after the welcome week"
 
-  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2890.jpg
-    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2890.jpg
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2890.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2890.jpg
     title: "4/10/2023: Walking to the WE building where we attend lectures"
     alt: "4/10/2023: Walking to the WE building where we attend lectures"
 
-  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2907.jpg
-    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2907.jpg
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2907.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2907.jpg
     title: "5/10/2023: First time attending pure maths seminar at the Mathematical Science Building"
     alt: "5/10/2023: First time attending pure maths seminar at the Mathematical Science Building"
 
-  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2932.jpg
-    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2932.jpg
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2932.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2932.jpg
     title: "7/10/2023: Forgot the bring my room key fob with me during laundry, it was a very embarrassing moment 🤣"
     alt: "7/10/2023: Forgot the bring my room key fob with me during laundry, it was a very embarrassing moment 🤣"
 
-  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2999.jpg
-    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_2999.jpg
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2999.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2999.jpg
     title: "16/10/2023: First time taking a bus to lessons, don't wanna walk anymore 🥱"
     alt: "16/10/2023: First time taking a bus to lessons, don't wanna walk anymore 🥱"
 
-  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_3011.jpg
-    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_3011.jpg
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3011.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3011.jpg
     title: "18/10/2023: At Aroma, where you would see me every afternoon 😬"
     alt: "18/10/2023: At Aroma, where you would see me every afternoon 😬"
 
-  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_3074.jpg
-    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_3074.jpg
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3074.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3074.jpg
     title: "26/10/2023: The first and only time I stepped out of my comfort zone and joined the weekly competition organized by the rubik's cube society 😶‍🌫️"
     alt: "26/10/2023: The first and only time I stepped out of my comfort zone and joined the weekly competition organized by the rubik's cube society 😶‍🌫️"
 
-  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_3244.jpg
-    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/IMG_3244.jpg
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3244.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3244.jpg
     title: "5/12/2023: Farewell to my computer science tutor Leonardo, thanks for your kind words in the reference letter 😊"
     alt: "5/12/2023: Farewell to my computer science tutor Leonardo, thanks for your kind words in the reference letter 😊"
 ---
