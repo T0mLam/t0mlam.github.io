@@ -4,7 +4,7 @@ date: 2024-08-31
 permalink: /posts/2024/08/advice-and-insights-for-the-warwick-ifp-cs-pathway/
 toc: true
 header:
-  og_image: "blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/foundation_department.jpg"
+  - image: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/foundation_department.jpg
 tags:
   - Study Abroad
 gallery:
@@ -182,7 +182,7 @@ Read this article if you are a prospective Warwick IFP student who wants to know
 
 # Sorry but you might be disappointed 
 
-The reality hurts.
+The reality hurts. 🥲
 
 <img src='/images/blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/ucas_result.png'>
 

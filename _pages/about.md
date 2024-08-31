@@ -31,5 +31,5 @@ To be added ... 😆
 <br><br>
 
 <div style="width: 150px; height: 150px; display: block; margin: auto;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=K51EkJZd7hQ_oOJ-kXzKKKQ2yS6yfLD4YXRXS9F07fo"></script>
+    <script defer type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=K51EkJZd7hQ_oOJ-kXzKKKQ2yS6yfLD4YXRXS9F07fo"></script>
 </div>
