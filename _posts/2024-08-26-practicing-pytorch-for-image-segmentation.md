@@ -1,6 +1,6 @@
 ---
 title: 'Practicing PyTorch 🐍🔦 for Image Segmentation 🌁'
-date: 2024-08-26
+date: 2099-08-26
 permalink: /posts/2024/08/practicing-pytorch-for-image-segmentation/
 tags:
   - Deep Learning 🤖
