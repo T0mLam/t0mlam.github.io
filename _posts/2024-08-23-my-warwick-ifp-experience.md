@@ -33,8 +33,8 @@ gallery:
 
   - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2999.jpg
     image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_2999.jpg
-    title: "16/10/2023: First time taking a bus to lessons, don't wanna walk anymore 🥱"
-    alt: "16/10/2023: First time taking a bus to lessons, don't wanna walk anymore 🥱"
+    title: "16/10/2023: First time taking a bus to lessons, did't wanna walk anymore 🥱"
+    alt: "16/10/2023: First time taking a bus to lessons, did't wanna walk anymore 🥱"
 
   - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3011.jpg
     image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3011.jpg
@@ -50,6 +50,131 @@ gallery:
     image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3244.jpg
     title: "5/12/2023: Farewell to my computer science tutor Leonardo, thanks for your kind words in the reference letter 😊"
     alt: "5/12/2023: Farewell to my computer science tutor Leonardo, thanks for your kind words in the reference letter 😊"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3272.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3272.jpg
+    title: "9/12/2023: Visiting Coventry Cathedral on the end of term 1"
+    alt: "9/12/2023: Visiting Coventry Cathedral on the end of term 1"
+  
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3307.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3307.jpg
+    title: "10/12/2023: The Christmas tree in the Piazza at Warwick"
+    alt: "10/12/2023: The Christmas tree in the Piazza at Warwick"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3574.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3574.jpg
+    title: "1/2/2024: A beautiful sunset I saw after a day of seminars"
+    alt: "1/2/2024: A beautiful sunset I saw after a day of seminars"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3692.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3692.jpg
+    title: "15/3/2024: I was the only student to come on time in a 9:00am further maths seminar 😂"
+    alt: "15/3/2024: I was the only student to come on time in a 9:00am further maths seminar 😂"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3707.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3707.jpg
+    title: "21/3/2024: Farewell to my EAP tutor Nigel. He was a very patient teacher and I really enjoyed his academic writing lessons"
+    alt: "21/3/2024: Farewell to my EAP tutor Nigel. He was a very patient teacher and I really enjoyed his academic writing lessons"
+  
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3712.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3712.jpg
+    title: "21/3/2024: During the further maths seminar on that one 7-seminar day 😩"
+    alt: "21/3/2024: During the further maths seminar on that one 7-seminar day 😩"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3729.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3729.jpg
+    title: "26/3/2024: Another day being the only one on time in a 9:00am IRS seminar 😌"
+    alt: "26/3/2024: Another day being the only one on time in a 9:00am IRS seminar 😌"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3756.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3756.jpg
+    title: "30/3/2024: Leaving Warwick for the spring break, it was a busy month filled with assignments 😞"
+    alt: "30/3/2024: Leaving Warwick for the spring break, it was a busy month filled with assignments 😞"
+  
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3820.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3820.jpg
+    title: "29/4/2024: The day for the further maths class test 2 finally came, I hated it so much 😩"
+    alt: "29/4/2024: The day for the further maths class test 2 finally came, I hated it so much 😩"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3897.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3897.jpg
+    title: "23/5/2024: My IRS poster presentation day. I looked like I hadn't been awake 😴"
+    alt: "23/5/2024: My IRS poster presentation day. I looked like I hadn't been awake 😴"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3912.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3912.jpg
+    title: "24/5/2024: My final lecture in the IFP 🥳"
+    alt: "24/5/2024: My final lecture in the IFP 🥳"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3935.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3935.jpg
+    title: "24/5/2024: Finally ... 😭🎉"
+    alt: "24/5/2024: Finally ... 😭🎉"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3932.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3932.jpg
+    title: "24/5/2024: My lovely IRS tutor Harnak, thanks for all the feedback you gave me for the assignments 😊"
+    alt: "24/5/2024: My lovely IRS tutor Harnak, thanks for all the feedback you gave me for the assignments 😊"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3970.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3970.jpg
+    title: "24/5/2024: My classmate Zifan, who always left the work to the end but still managed to finish them on time. 🤣 Very happy to colaborate with you in the CS project"
+    alt: "24/5/2024: My classmate Zifan, who always left the work to the end but still managed to finish them on time. 🤣 Very happy to colaborate with you in the CS project"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3960.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3960.jpg
+    title: "24/5/2024: My CS tutor Hina. Thanks very much for your teaching and the blessings you gave me during the IFP end of year event 😊"
+    alt: "24/5/2024: My CS tutor Hina. Thanks very much for your teaching and the blessings you gave me during the IFP end of year event 😊"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3960.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3960.jpg
+    title: "24/5/2024: My CS tutor Hina. Thanks very much for your teaching and the blessings you gave me during the IFP end of year event 😊"
+    alt: "24/5/2024: My CS tutor Hina. Thanks very much for your teaching and the blessings you gave me during the IFP end of year event 😊"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3873.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3873.jpg
+    title: "24/5/2024: My coursemate Reagon. It was nice to meet you. I really appreciate your creativity and I believe you will be a great programmer in the future 😊"
+    alt: "24/5/2024: My coursemate Reagon. It was nice to meet you. I really appreciate your creativity and I believe you will be a great programmer in the future 😊"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3947.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3947.jpg
+    title: "24/5/2024: My coursemate Joe, a very talkative person who was interested in politics. 🤫 Hope you do well at UCL"
+    alt: "24/5/2024: My coursemate Joe, a very talkative person who was interested in politics. 🤫 Hope you do well at UCL"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3952.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3952.jpg
+    title: "24/5/2024: My pure maths Paul. Thanks for your revision sheets, they were very helpful 😄"
+    alt: "24/5/2024: My pure maths Paul. Thanks for your revision sheets, they were very helpful 😄"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3955.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3955.jpg
+    title: "24/5/2024: My personal tutor Amanda. Thanks very much for helping on my UCAS application 😁"
+    alt: "24/5/2024: My personal tutor Amanda. Thanks very much for helping on my UCAS application 😁"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3983.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3983.jpg
+    title: "3/6/2024: My last pure maths mock exam before the summative 😭"
+    alt: "3/6/2024: My last pure maths mock exam before the summative 😭"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3998.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3998.jpg
+    title: "11/6/2024: Finally finished all my exams 😭🥹"
+    alt: "11/6/2024: Finally finished all my exams 😭🥹"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_4008.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_4008.jpg
+    title: "13/6/2024: Hanging out in Leamington after exam 😬"
+    alt: "13/6/2024: Hanging out in Leamington after exam 😬"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_4020.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_4020.jpg
+    title: "14/6/2024: Doing coursera in the kitchen after exam 🤓"
+    alt: "14/6/2024: Doing Coursera in the kitchen after exam 🤓"
+
+  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_4036.jpg
+    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_4036.jpg
+    title: "16/6/2024: Leaving Warwick after returning the key fob, now awaiting my journey at Bristol for the next 3 years. 😉⏳"
+    alt: "16/6/2024: Leaving Warwick after returning the key fob, now awaiting my journey at Bristol for the next 3 years. 😉⏳"
 ---
 
 Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 #ValuableInsights #DefinitelyNotClickbeit
@@ -258,8 +383,12 @@ Studying in the IFP was the first time I left my parents to study abroad on my o
 
 Thank you very much for reading to the end of this blog. Wish you all the best in your future endeavors and have fun 😆💪. 
 
+If you would leave some comments to this post, press [here](#comments) to skip to the comments section.
+
 # Memories & Moments
 
 Here are some photos I took during the Warwick IFP, click on it to see the descriptions.
 
 {% include gallery %}
+
+# Comments
