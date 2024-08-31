@@ -3,6 +3,8 @@ title: 'Advice and Insights for the Warwick IFP CS Pathway ▼▼'
 date: 2024-08-31
 permalink: /posts/2024/08/advice-and-insights-for-the-warwick-ifp-cs-pathway/
 toc: true
+header:
+  og_image: "blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/foundation_department.jpg"
 tags:
   - Study Abroad
 gallery:

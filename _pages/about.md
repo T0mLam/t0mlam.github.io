@@ -27,3 +27,9 @@ I am a first year computer science student from Hong Kong 🇭🇰 studying at t
 To be added ... 😆
 
 👉[Offer me opportunities](mailto:tom.lam@odns.hk)
+
+<br><br>
+
+<div style="width: 150px; height: 150px; display: block; margin: auto;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=K51EkJZd7hQ_oOJ-kXzKKKQ2yS6yfLD4YXRXS9F07fo"></script>
+</div>
