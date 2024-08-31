@@ -126,11 +126,6 @@ gallery:
     title: "24/5/2024: My CS tutor Hina. Thanks very much for your teaching and the blessings you gave me during the IFP end of year event 😊"
     alt: "24/5/2024: My CS tutor Hina. Thanks very much for your teaching and the blessings you gave me during the IFP end of year event 😊"
 
-  - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3960.jpg
-    image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3960.jpg
-    title: "24/5/2024: My CS tutor Hina. Thanks very much for your teaching and the blessings you gave me during the IFP end of year event 😊"
-    alt: "24/5/2024: My CS tutor Hina. Thanks very much for your teaching and the blessings you gave me during the IFP end of year event 😊"
-
   - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3873.jpg
     image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3873.jpg
     title: "24/5/2024: My coursemate Reagon. It was nice to meet you. I really appreciate your creativity and I believe you will be a great programmer in the future 😊"
@@ -213,7 +208,7 @@ That's why I decided to write this blog to share everything I know to you. Altho
 
 - __STEP:__ I got rejected from Imperial before they gave me any STEP offers so I did not take the exam or prepared for it. However, the reason I did not revise for the exam is that I had always thought STEP exams were optional but it was not. I would advice you to start revising during the summer before the IFP starts or during the first term before the winter break as the workload will increase drastically in the second and final term.
 
-- __TMUA:__: TMUA was not a requirement for Warwick BSc computer science in my year so I did not take the exam. Same as the STEP exams, I would suggest to start revising during the summer or the first term. It is sad to see Warwick's entry requirements and the IFP tests difficulty go up every year but that is what's happening very unfortunitely.
+- __TMUA:__ TMUA was not a requirement for Warwick BSc computer science in my year so I did not take the exam. Same as the STEP exams, I would suggest to start revising during the summer or the first term. It is sad to see Warwick's entry requirements and the IFP tests difficulty go up every year but that is what's happening very unfortunitely.
 
 # Set your goals
 
