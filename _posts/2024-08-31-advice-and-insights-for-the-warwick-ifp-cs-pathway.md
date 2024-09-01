@@ -174,11 +174,10 @@ gallery:
     alt: "16/6/2024: Leaving Warwick after returning the key fob, now awaiting my journey at Bristol for the next 3 years. 😉⏳"
 ---
 
-Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 #ValuableInsights #DefinitelyNotClickbeit
+Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 #ValuableInsights 
 
 > ℹ️ **Note** <br>
 > I'm writing this blog as a former IFP student. The views expressed here are my own and do not represent the Warwick Foundation Department.
- 
 
 # Sorry but you might be disappointed 
 
