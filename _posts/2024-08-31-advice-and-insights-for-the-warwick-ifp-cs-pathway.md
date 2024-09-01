@@ -5,6 +5,7 @@ permalink: /posts/2024/08/advice-and-insights-for-the-warwick-ifp-cs-pathway/
 toc: true
 header:
   og_image: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/foundation_department.jpg
+excerpt: "Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 #ValuableInsights"
 tags:
   - Study Abroad
 gallery:
@@ -173,6 +174,8 @@ gallery:
     title: "16/6/2024: Leaving Warwick after returning the key fob, now awaiting my journey at Bristol for the next 3 years. 😉⏳"
     alt: "16/6/2024: Leaving Warwick after returning the key fob, now awaiting my journey at Bristol for the next 3 years. 😉⏳"
 ---
+
+<img src='/images/blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/foundation_department.jpg'>
 
 Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 #ValuableInsights 
 
