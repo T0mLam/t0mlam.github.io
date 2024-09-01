@@ -22,7 +22,7 @@ As I am interested in data science and deep learning, much of my time is spent o
 
 
 <div class='title' style='margin-bottom: -10px;'>
-  <h1>Landcover Segmentation with UNets</h1>
+  <h1>Land Cover Segmentation with UNets</h1>
   <div class='widgets'>
     <a href="https://github.com/T0mLam/Landcover-Segmentation-with-UNets">
       <i class="fab fa-github button"></i>
@@ -38,17 +38,19 @@ As I am interested in data science and deep learning, much of my time is spent o
   <img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black'>
 </div>
 
-Semantic segmentation of satellite images with [UNet](https://doi.org/10.1007/978-3-319-24574-4_28) and [ResUNet-a](https://arxiv.org/abs/1904.00592) in PyTorch.
+Semantic segmentation of the [Multi-Source Satellite Imagery for Segmentation Dataset](https://www.kaggle.com/datasets/hammadjavaid/multi-source-satellite-imagery-for-segmentation/data) with [UNet](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) and [ResUNet-a](https://arxiv.org/abs/1904.00592) in PyTorch
 
 <div class="images">
-    <img src='/images/projects/landcover-segmentation-with-unets/segmentation_results.png' width='100%'>
+    <img src='/images/projects/landcover-segmentation-with-unets/unet_segmentation_results.png' width='50%'>
+    <img src='/images/projects/landcover-segmentation-with-unets/res_unet_a_segmentation_results.png' width='50%'>
 </div>
 
-The 
+I am planning to incorporate the trained model into a web application to allow anyone to upload an image to the model and get a colored segmentation mask labeled with the 6 landcover classes. 
+
+Stay tuned ... 😊
 
 
 <!-- LeNet-5 From Scratch -->
-
 
 <div class='title' style='margin-bottom: -10px;'>
   <h1>LeNet-5 From Scratch</h1>
@@ -66,12 +68,53 @@ The
   <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white'>
 </div>
 
-During the summer vacation after my foundation year, I took an [online course](https://tinyurl.com/bdr6href) on machine learning which really sparked my interest in deep neural networks. 🤩 Having nothing else to do as I was living in Bristol, I decided to spend my summer building a handwritten digit recognition app, marking the start of my journey in deep learning. 🥳
+During the summer vacation after my foundation year, I took an [online course](https://tinyurl.com/bdr6href) on machine learning which really sparked my interest in deep neural networks. 🤩 Having no internships and nothing else to do, I decided to spend my summer building a handwritten digit recognition app, marking the start of my journey in deep learning. 🥳
 
 <div class="images">
     <img src='/images/projects/lenet-5-from-scratch/architecture.png' width='75%'>
     <img src='/images/projects/lenet-5-from-scratch/app_demo.gif' width='25%'>
 </div>
+
+## Installation 
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/T0mLam/LeNet-5-from-scratch.git
+cd LeNet-5-from-scratch
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+### Launch the app
+
+```bash
+python -m app
+```
+
+### Import and use the modules
+
+Create a new file `experiment.py` in the root directory
+```python
+# Use the format 'from modules.{filename} import {module}'
+
+# e.g. import the Adam optimizer
+from modules.optimizer import Adam
+...
+optimizer = Adam(model, lr=0.001)
+
+```
+
+Run the script
+```bash
+python -m experiment
+```
 
 
 <style>
