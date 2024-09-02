@@ -186,7 +186,7 @@ Read this article if you are a prospective Warwick IFP student who wants to know
 
 The reality hurts. 🥲
 
-
+<img src='/images/blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/ucas_result.png'>
 
 In Warwick IFP '24, only 2 students were accepted to UCL CS and 0 accepted to Imperial computing. And I believe nobody got the interview from Imperial.
 
