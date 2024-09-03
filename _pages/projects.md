@@ -15,7 +15,7 @@ gallery:
 ---
 
 
-As I am interested in data science and deep learning, much of my time is spent on creating side projects or re-implementing papers. Below you will find my recent projects that I did during my free time outside classes or on vacations which I am very proud of. 😆
+As I am interested in computer vision and deep learning, much of my time is spent on creating side projects or re-implementing papers. Below you will find my recent projects that I did during my free time outside classes or on vacations which I am very proud of. 😆
 
 
 <!-- Landcover Segmentation with UNets -->

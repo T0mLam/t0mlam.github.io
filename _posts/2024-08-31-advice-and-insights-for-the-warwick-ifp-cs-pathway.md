@@ -56,8 +56,8 @@ gallery:
 
   - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3272.jpg
     image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3272.jpg
-    title: "9/12/2023: Visiting Coventry Cathedral on the end of term 1"
-    alt: "9/12/2023: Visiting Coventry Cathedral on the end of term 1"
+    title: "9/12/2023: Visiting Coventry Cathedral at the end of term 1"
+    alt: "9/12/2023: Visiting Coventry Cathedral at the end of term 1"
   
   - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3307.jpg
     image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3307.jpg
@@ -141,8 +141,8 @@ gallery:
 
   - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3952.jpg
     image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3952.jpg
-    title: "24/5/2024: My pure maths Paul. Thanks for your revision sheets, they were very helpful 😄"
-    alt: "24/5/2024: My pure maths Paul. Thanks for your revision sheets, they were very helpful 😄"
+    title: "24/5/2024: My pure maths tutor Paul. Thanks for your revision sheets, they were very helpful 😄"
+    alt: "24/5/2024: My pure maths tutor Paul. Thanks for your revision sheets, they were very helpful 😄"
 
   - url: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3955.jpg
     image_path: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/memories/img_3955.jpg
@@ -210,7 +210,7 @@ That's why I decided to write this blog to share everything I know to you. Altho
 
 # Disclaimer: things that I do not know
 
-- __STEP:__ I got rejected from Imperial before they gave me any STEP offers so I did not take the exam or prepared for it. However, the reason I did not revise for the exam is that I had always thought STEP exams were optional but it was not. I would advice you to start revising during the summer before the IFP starts or during the first term before the winter break as the workload will increase drastically in the second and final term.
+- __STEP:__ I got rejected from Imperial before they gave me any STEP offers so I did not take the exam or prepared for it. However, the reason I did not revise for the exam early on is that I had always thought STEP exams were optional but it was not. I would advice you to start revising during the summer before the IFP starts or during the first term before the winter break as the workload will increase drastically in the second and final term.
 
 - __TMUA:__ TMUA was not a requirement for Warwick BSc computer science in my year so I did not take the exam. Same as the STEP exams, I would suggest to start revising during the summer or the first term. It is sad to see Warwick's entry requirements and the IFP tests difficulty go up every year but that is what's happening very unfortunitely.
 
@@ -223,14 +223,17 @@ Here are some of the conditional offers received in 2024.
 > The conditional offer requirements for each university could change slightly every year
 
 | Programme | Requirements |
-| --------------- | --------------- | 
-| Warwick Computer Science | Overall 75%, Pure Maths 85%, Further Maths 85%|
+| :--------------- | :--------------- | 
+| Warwick Computer Science | Overall 75%, 85% in Pure Maths & Further Maths|
 | Warwick Computer System Engineering | Overall 70%, 70% in all modules |
-| UCL Computer Science | Row 3, Column 2 | 
+| UCL Computer Science | Overall 78%, 85% in Pure Maths & 1 other module (Further Maths / IRS)| 
 | Manchester Computer Science | Row 3, Column 2 | 
 | KCL Computer Science | Row 3, Column 2 | 
+| Birmingham Computer Science | Overall 70%, 75% in Pure Maths & Further Maths| 
 | Bristol Computer Science | Overall 70%, 70% in all modules |
-| Cardiff Computer Science | Overall 65%, 60% in Pure Maths & Further Maths | 
+| Cardiff Computer Science | Overall 65%, 60% in Pure Maths & Further Maths| 
+
+> __Credit:__ Michael Okeke
 
 I also had a list of entry requirements that I got from the IFP University Fair in 27/10/2023,
 but I did not know if anyone actually got the offers with those specific grades.
@@ -239,7 +242,6 @@ but I did not know if anyone actually got the offers with those specific grades.
 | --------------- | --------------- | 
 | QMUL Computer Science | Overall 70% |
 | Southampton Computer Science | Overall 75%, 75% in Pure Maths & Further Maths |
-| Birmingham Computer Science | Overall 70% | 
 | Leicester Computer Science | Overall 65% | 
 | Durham Computer Science | Overall 70% | 
 | Aston Computer Science | Overall 65%, 60% in Pure Maths & Further Maths |
@@ -263,7 +265,7 @@ Although getting 90% in the maths class tests may seems a little out of reach, b
 
 <img src='/images/blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/ifp_grades.png'>
 
-Remember the Warwick IFP qualification is equivalent to the GCE A-level, so you can expect the curriculum and exam question types to be very similar. I had used some a level past papers for revision and I found them to be helpful so I will share those with you below.
+Remember the Warwick IFP qualification is equivalent to the A-Level exams, so you can expect the curriculum and exam question types to be very similar. I had used some a level past papers for revision and I found them to be helpful so I will share those with you below.
 
 ## Pure Maths
 
@@ -315,11 +317,11 @@ Binary arithmetic, boolean algebra, computational thinking, Python programming, 
 
 The presentation I did was a 5-minute presentation on an ethical issue related to social media platforms. The advice I would give is to be more in-depth in the presentation. What I meant by more in-depth is not only including more figures to support your arguments, but also explain the algorithms behind the technology as much as possible, which is the opposite of the EAP style presentation. And more importantly, make sure your presentation meets all the requirements in the mark scheme and do not go over the time limit. (I knew sb who got ~40% in the assignment bc his presentation got over-time and end up not being marked 🥲)
 
-Don't be too harsh on yourself if you do not score well, there are too much uncertainty in this assignment, e.g. your english proficiency, different interpretations on the mark scheme, ~~whether the teacher likes you~~. 🤓 I scored >70% on the assignment but most people scored around 60% and some scored <50% so good luck to you. 😬
+Don't be too harsh on yourself if you do not score well, there are too many uncertainties in this assignment, e.g. your english proficiency, different interpretations on the mark scheme, ~~whether the teacher likes you~~. 🤓 I scored >70% on the assignment but most people scored around 60% and some scored <50% so good luck to you. 😬
 
 ### Group project
 
-The topic of our group project was 'A game of chance', which was the same topic as the one in 2021. We had to finish the code, user manual and an individual report in a month during the spring break in April.
+The topic of our group project was 'A game of chance', which was the same topic as the one in 20/21, and the topic for the year before us (22/23) was a snake game if I remember correctly. We had to finish the code, user manual and an individual report in a month during the spring break in April.
 
 There are 3 tips to score highly in the project
 
@@ -328,7 +330,7 @@ There are 3 tips to score highly in the project
 2. __The key is on how you said you did something:__ The individual report is a game-changer. In my group, depsite we all had the same score for the code, our final score differed by ~15% because of the individual report. Don't start the report after implementing the code, spare >2 weeks to fill it in. Track all your work using Github project or any tools you want to display it as evidence that you follow the software development methodology.
 
 3. __Complexity + Theoretical understanding:__ These are what the markers are looking for. A large part of the project is to test our understanding in data structures and algorithms, and display it in the individual report. I can give you a few examples.<br><br>
-For example, 'My aim was to develop a program which randomly generates a complete graph which allows the players to pick their desired starting node and ending node in the game. I have
+First example, 'My aim was to develop a program which randomly generates a complete graph which allows the players to pick their desired starting node and ending node in the game. I have
 researched into the Erdos Renyi graph (Frieze and Karoński, 2015), which is a probability-based random graph generation algorithm that ... Unfortunitely, the attempts were unsuccessful as ... Therefore, to ensure ..., I have created my own algorithm. {explain steps}. As the python set
 does not support the random extraction operation, I created a RandomisedSet which consists of an edge list and a hashmap that maps each edge to its index stored in the list. A randomly edge is picked by a random choice on the edge list and extracted by swapping the edge with the last element of the list and pop it out, which is an $O(1)$ operation in expense of additional memory. <br><br>
 Another example, 'For the search functions in the leaderboard page, I have used a trie data structure to
@@ -375,7 +377,7 @@ Having the IELTS score sorted out before the second term allowed me to not havin
 
 # Key Takeaways
 
-- __Be proactive:__ Always start your assignment or revision early, begin planning your assignment as soon as it is release.
+- __Be proactive:__ Always start your assignment or revision early, begin planning your assignment as soon as it is release. Be the one who set up a group chat, invite discussion or even allocate tasks in a group project (if no one else steps up 🥺).
 
 - __Perception >= Ability:__ Leave a good impression on your teachers as they will be grading your assignments and giving your predicted grades. Attend as many lessons as your can and sit in the front rows during lectures. It does not matter that you are not the best at maths or coding (~~just like me~~ 😔), I am sure you will get the grades you desired if you work hard and can display to the markers that you put a lot of effort into your work.
 
@@ -386,6 +388,8 @@ Having the IELTS score sorted out before the second term allowed me to not havin
 1. Have regular phone calls with your friends and family, they are your strongest mental support. ❤️
 2. Get a bus pass from the NXBus mTicket app. It saves you so much time travelling from the central campus to West Wood.
 3. Explore other cities during the holidays. I went on a week trip to London in the winter break to escape from my work. Be sure to relax and have fun during the winter holiday, as you won't have much time in terms 2 and 3.
+4. Never worry about the predicted grades, everyone has almost the same (~= the minimum requirements to get you a Warwick CS offer) unless you are exceptional. 👉🤓 <br>
+Fun fact: My CS predicted grade got dumped down from 100% to 94% bc the tutor said they could not predict a perfect 100. So the moral of the story is don't try too hard, they will 'tax the rich and feed the poor'. 🤫😉 
 
 # Just Enjoy the Journey
 
@@ -400,9 +404,11 @@ Thank you very much for reading to the end of this blog. Wish you all the best i
 
 If you would leave some comments to this post, press [here](#comments) to skip to the comments section.
 
+Once again, I would like to thank my classmate Michael for sharing some of his [condition offers](#set-your-goals) to us.
+
 # Memories & Moments
 
-Here are some photos I took during the Warwick IFP, click on it to see the descriptions.
+Here are some photos I took from the start to the end of the Warwick IFP, __click on it to see the descriptions__.
 
 {% include gallery %}
 
