@@ -12,7 +12,7 @@ I'm Tom, a ...
 
 📚 First year computer science student at Bristol
 
-👨🏻‍💻 Data science and deep learning enthusiast
+👨🏻‍💻 Computer vision and deep learning enthusiast
 
 📸 Amateur photographer
 

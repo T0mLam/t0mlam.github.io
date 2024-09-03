@@ -3,6 +3,8 @@ title: 'My First ML Project 👨🏻‍💻🤖'
 date: 2024-08-27
 permalink: /posts/2024/08/my-first-ml-project/
 toc: true
+header:
+  teaser: blogs/my-first-ml-project/architecture.png
 tags:
   - Deep Learning 🤖
 gallery:

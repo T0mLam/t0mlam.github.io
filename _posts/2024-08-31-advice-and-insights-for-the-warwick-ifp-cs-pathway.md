@@ -4,7 +4,8 @@ date: 2024-08-31
 permalink: /posts/2024/08/advice-and-insights-for-the-warwick-ifp-cs-pathway/
 toc: true
 header:
-  og_image: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/foundation_department.jpg
+  og_image: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/foundation_department.jpg  
+  teaser: /blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/foundation_department.jpg
 excerpt: "Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 #ValuableInsights"
 tags:
   - Study Abroad
@@ -190,9 +191,13 @@ The reality hurts. 🥲
 
 In Warwick IFP '24, only 2 students were accepted to UCL CS and 0 accepted to Imperial computing. And I believe nobody got the interview from Imperial.
 
+__Rumor:[^1]__  One student from the maths pathway got an offer from Imperial statistics with a high MAT score. He met all the requirements in the conditional offer but ended up getting rejected.
+
+
+
 # Be optimistic, you could be the top 5% student in the IFP after reading this blog 😹
 
-Just kidding. Having top grades at the Warwick IFP will not guarantee you a place in these 2 universities. Grades are just prerequisites before they consider your admission test scores, awards and projects. However, it will certainly help you get a conditional offer from Manchester, King's and etc.
+Just kidding. Having top grades at the Warwick IFP will not guarantee you a place in these 2 universities. Grades are just prerequisites before they consider your admission test scores, awards and projects. However, it will certainly help you get a conditional offer from Manchester and other Russell Group universities.
 
 If you would want to know how I studied in the IFP and my advice for the future IFP CS students, please continue reading. 😊
 
@@ -225,15 +230,18 @@ Here are some of the conditional offers received in 2024.
 | Programme | Requirements |
 | :--------------- | :--------------- | 
 | Warwick Computer Science | Overall 75%, 85% in Pure Maths & Further Maths|
+| Warwick MORSE | Overall 75%, 85% in Pure Maths & Further Maths|
 | Warwick Computer System Engineering | Overall 70%, 70% in all modules |
 | UCL Computer Science | Overall 78%, 85% in Pure Maths & 1 other module (Further Maths / IRS)| 
 | Manchester Computer Science | Row 3, Column 2 | 
 | KCL Computer Science | Row 3, Column 2 | 
 | Birmingham Computer Science | Overall 70%, 75% in Pure Maths & Further Maths| 
+| Glasgow Computer Science | Overall 80%, 80% in Pure Maths & Further Maths| 
 | Bristol Computer Science | Overall 70%, 70% in all modules |
+| Newcastle Computer Science | Overall 70% |
 | Cardiff Computer Science | Overall 65%, 60% in Pure Maths & Further Maths| 
 
-> __Credit:__ Michael Okeke
+> __Credit:__ Michael Okeke, Zifan Wang
 
 I also had a list of entry requirements that I got from the IFP University Fair in 27/10/2023,
 but I did not know if anyone actually got the offers with those specific grades.
@@ -246,7 +254,7 @@ but I did not know if anyone actually got the offers with those specific grades.
 | Durham Computer Science | Overall 70% | 
 | Aston Computer Science | Overall 65%, 60% in Pure Maths & Further Maths |
 
-The advice for UCAS I would give is to apply for either Imperial or UCL, you won't lose anything for trying 🙂, but do not expect to get a conditional offer. Apply for Warwick of course as you will get a guarantee offer. From my experience in 23/24, King's and Manchester tended to give offers to most students with high predicted grades so you could apply if you are interested in those 2 universities. At the end, choose 1 or 2 universities from the 70% range as your insurance choice. You could also put a university with 65% overall requirement as your insurance as they will most likely give you an offer. 
+The advice for UCAS I would give is to apply for either Imperial or UCL, you won't lose anything for trying 🙂, but do not expect to get a conditional offer. Apply for Warwick of course as you will get a guarantee offer. From my experience in 23/24, King's and Manchester tended to give offers to many students with high predicted grades (success rate: Manchester > KCL) so you could apply if you are interested in those 2 universities. At the end, choose 1 or 2 universities from the 70% range as your insurance choice. You could also put a university with 65% overall requirement as your insurance as they will most likely give you an offer. 
 
 But at the end of the days, I believe choosing Warwick is your best bet. As far as I know, Warwick has one of the largest computer science society and data science society out of all UK universities behind Imperial and UCL so I am sure you are going to have a good time there if you enjoy socializing.
 
@@ -404,12 +412,17 @@ Thank you very much for reading to the end of this blog. Wish you all the best i
 
 If you would leave some comments to this post, press [here](#comments) to skip to the comments section.
 
-Once again, I would like to thank my classmate Michael for sharing some of his [condition offers](#set-your-goals) to us.
+Once again, I would like to thank my classmates Michael and Zifan for sharing some of their [condition offers](#set-your-goals) to us.
 
 # Memories & Moments
 
 Here are some photos I took from the start to the end of the Warwick IFP, __click on it to see the descriptions__.
 
 {% include gallery %}
+
+[^1]: I do not know or have any contact with that student. I got the info from one of my classmates who was a friend of his.
+
+* footnotes will be placed here. This line is necessary
+{:footnotes}
 
 # Comments
