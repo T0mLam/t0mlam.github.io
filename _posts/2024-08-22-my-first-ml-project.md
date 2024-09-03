@@ -95,7 +95,7 @@ Here is the original architecture of the LeNet-5
 
 <img src='/images/blogs/my-first-ml-project/architecture.png'>
 
-Here is a high-level (1) overview of my implementation
+Here is a high-level overview of my implementation
 
 <img src='/images/blogs/my-first-ml-project/model_code.png'>
 
