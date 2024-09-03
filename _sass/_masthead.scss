@@ -50,9 +50,11 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  transform: translateY(-2px);
 
   &--lg {
-    padding-right: 3em;
+    padding-right: 2em;
     font-weight: 700;
+    transform: none;
   }
 }
