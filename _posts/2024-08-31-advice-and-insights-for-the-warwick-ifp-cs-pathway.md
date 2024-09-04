@@ -405,7 +405,6 @@ Studying in the IFP was the first time I left my parents to study abroad on my o
 
 <!--
 Here is a quote I really resonate with
-
 <img src='/images/blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/quote.jpg'>
 -->
 
