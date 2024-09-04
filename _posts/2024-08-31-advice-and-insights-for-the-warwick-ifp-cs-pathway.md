@@ -215,7 +215,7 @@ That's why I decided to write this blog to share everything I know to you. Altho
 
 # Disclaimer: things that I do not know
 
-- __STEP:__ I got rejected from Imperial before they gave me any STEP offers so I did not take the exam or prepared for it. However, the reason I did not revise for the exam early on is that I had always thought STEP exams were optional but it was not. I would advice you to start revising during the summer before the IFP starts or during the first term before the winter break as the workload will increase drastically in the second and final term.
+- __STEP:__ I got rejected from Imperial before they gave me any STEP offers so I did not take the exam or prepared for it. However, the reason I did not revise for the exam early on is that I had always thought STEP exams were optional for Imperial computing but it was not. I would advice you to start revising during the summer before the IFP starts or during the first term before the winter break as the workload will increase drastically in the second and final term.
 
 - __TMUA:__ TMUA was not a requirement for Warwick BSc computer science in my year so I did not take the exam. Same as the STEP exams, I would suggest to start revising during the summer or the first term. It is sad to see Warwick's entry requirements and the IFP tests difficulty go up every year but that is what's happening very unfortunitely.
 
@@ -233,15 +233,15 @@ Here are some of the conditional offers received in 2024.
 | Warwick MORSE | Overall 75%, 85% in Pure Maths & Further Maths|
 | Warwick Computer System Engineering | Overall 70%, 70% in all modules |
 | UCL Computer Science | Overall 78%, 85% in Pure Maths & 1 other module (Further Maths / IRS)| 
-| Manchester Computer Science | Row 3, Column 2 | 
-| KCL Computer Science | Row 3, Column 2 | 
+| Manchester Computer Science | Overall 80%, 80% in Pure Maths, Further Maths & CS | 
 | Birmingham Computer Science | Overall 70%, 75% in Pure Maths & Further Maths| 
 | Glasgow Computer Science | Overall 80%, 80% in Pure Maths & Further Maths| 
 | Bristol Computer Science | Overall 70%, 70% in all modules |
+| Liverpool Computer Science | Overall 70%, 75% in Pure Maths & Further Maths | 
 | Newcastle Computer Science | Overall 70% |
 | Cardiff Computer Science | Overall 65%, 60% in Pure Maths & Further Maths| 
 
-> __Credit:__ Michael Okeke, Zifan Wang
+> __Credit:__ Michael Okeke, [Oluwafemi Okono](https://www.linkedin.com/in/oluwafemi-okono-77a9b1290), Zifan Wang
 
 I also had a list of entry requirements that I got from the IFP University Fair in 27/10/2023,
 but I did not know if anyone actually got the offers with those specific grades.
@@ -254,7 +254,7 @@ but I did not know if anyone actually got the offers with those specific grades.
 | Durham Computer Science | Overall 70% | 
 | Aston Computer Science | Overall 65%, 60% in Pure Maths & Further Maths |
 
-The advice for UCAS I would give is to apply for either Imperial or UCL, you won't lose anything for trying 🙂, but do not expect to get a conditional offer. Apply for Warwick of course as you will get a guarantee offer. From my experience in 23/24, King's and Manchester tended to give offers to many students with high predicted grades (success rate: Manchester > KCL) so you could apply if you are interested in those 2 universities. At the end, choose 1 or 2 universities from the 70% range as your insurance choice. You could also put a university with 65% overall requirement as your insurance as they will most likely give you an offer. 
+The advice for UCAS I would give is to apply for either Imperial or UCL, you won't lose anything for trying 🙂, but do not expect to get a conditional offer. Apply for Warwick of course as you will get a guarantee offer. From my experience in 23/24, King's and Manchester tended to give offers to students with high predicted grades (success rate: Manchester > KCL) so you could apply if you are interested in those 2 universities. At the end, choose 1 or 2 universities from the 70% range as your insurance choice. You could also put a university with 65% overall requirement as your insurance as they will most likely give you an offer. 
 
 But at the end of the days, I believe choosing Warwick is your best bet. As far as I know, Warwick has one of the largest computer science society and data science society out of all UK universities behind Imperial and UCL so I am sure you are going to have a good time there if you enjoy socializing.
 
@@ -403,20 +403,21 @@ Fun fact: My CS predicted grade got dumped down from 100% to 94% bc the tutor sa
 
 Studying in the IFP was the first time I left my parents to study abroad on my own, and I believe it will be your first experience as well. I genuinely learned and grew so much over the year. No matter what your results are, whether you get into your dream university or make new friends, I am sure you will have a memorable experience at Warwick, whether it's hanging out with friends in Leamington or stressing about final exams. Don't worry too much about the things we cannot control, just like the results at the end and the offers you will get. Do your best and may you achieve all your goals. 😊
 
+<!--
 Here is a quote I really resonate with
 
 <img src='/images/blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/quote.jpg'>
-
+-->
 
 Thank you very much for reading to the end of this blog. Wish you all the best in your future endeavors and have fun 😆💪. 
 
 If you would leave some comments to this post, press [here](#comments) to skip to the comments section.
 
-Once again, I would like to thank my classmates Michael and Zifan for sharing some of their [condition offers](#set-your-goals) to us.
+Once again, I would like to thank my classmates Michael, Femi and Zifan for sharing some of their [condition offers](#set-your-goals) to us.
 
 # Memories & Moments
 
-Here are some photos I took from the start to the end of the Warwick IFP, __click on it to see the descriptions__.
+Here are some photos I took from the start to the end of the Warwick IFP, __click on them to see the descriptions__.
 
 {% include gallery %}
 
