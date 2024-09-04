@@ -247,7 +247,7 @@ I also had a list of entry requirements that I got from the IFP University Fair 
 but I did not know if anyone actually got the offers with those specific grades.
 
 | Programme | Requirements |
-| --------------- | --------------- | 
+| :--------------- | :--------------- | 
 | QMUL Computer Science | Overall 70% |
 | Southampton Computer Science | Overall 75%, 75% in Pure Maths & Further Maths |
 | Leicester Computer Science | Overall 65% | 
