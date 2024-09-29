@@ -7,20 +7,26 @@
 #  - title: "Publications"
 #    url: /publications/
 #  - title: "Talks"
-#    url: /talks/    
+#    url: /talks/
 #  - title: "Teaching"
-#    url: /teaching/   
+#    url: /teaching/
 #  - title: "Guide"
 #    url: /markdown/
 
 main:
   - title: "Projects"
     url: /projects/
-        
+
   - title: "Posts"
     url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
-    
 
+projects:
+  - title: "highlights"
+    children:
+      - title: "Land Cover Segmentation"
+        url: /projects/#land
+      - title: "LeNet-5 From Scratch"
+        url: /projects/#lenet

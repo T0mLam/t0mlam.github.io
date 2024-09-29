@@ -68,7 +68,8 @@
   /* information */
 
   &--info {
-    background-color: $info-color;
+    background-color: mix(transparent, $info-color, 10%);
+    font-size: $type-size-8;
 
     &:hover {
       background-color: mix(#000, $info-color, 20%);

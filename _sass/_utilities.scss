@@ -477,11 +477,8 @@ body:hover .visually-hidden button {
 
 .footnotes {
   color: mix(#fff, $gray, 25%);
-
-  ol, li, p {
-    margin-bottom: 0;
-    font-size: $type-size-6;
-  }
+  margin-bottom: 0;
+  font-size: $type-size-6;
 }
 
 a.reversefootnote {

@@ -137,6 +137,8 @@
 
 .author__pronouns {
   margin: 0;
+  font-size: $type-size-8;
+  color: rgb(120, 120, 120);
 
   @include breakpoint($large) {
     margin-top: 10px;
