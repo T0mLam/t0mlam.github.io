@@ -6,7 +6,7 @@ toc: true
 header:
   og_image: blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/foundation_department.jpg  
   teaser: /blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/foundation_department.jpg
-excerpt: "Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 #ValuableInsights"
+excerpt: "Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 **#ValuableInsights**"
 tags:
   - Study Abroad
 gallery:
@@ -178,7 +178,7 @@ gallery:
 
 <img src='/images/blogs/advice-and-insights-for-the-warwick-ifp-cs-pathway/foundation_department.jpg'>
 
-Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 #ValuableInsights 
+Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 **#ValuableInsights**
 
 > ℹ️ **Note** <br>
 > I'm writing this blog as a former IFP student. The views expressed here are my own and do not represent the Warwick Foundation Department.

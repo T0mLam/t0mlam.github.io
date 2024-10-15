@@ -54,7 +54,7 @@ gallery:
     alt: "Inside the Colosseum"
 ---
 
-It is about everything interesting and challenging during the process of building my [LeNet-5 From Scratch](https://t0mlam.github.io/projects/) project. Please lower your expectation before clicking in. 😬🫣
+It is about everything interesting and challenging during the process of building my [LeNet-5 From Scratch](https://t0mlam.github.io/projects/#lenet) project. Please lower your expectation before clicking in. 😬🫣
 
 # How I got started in machine learning
 
