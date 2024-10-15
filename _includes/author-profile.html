@@ -89,6 +89,9 @@
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}      
+      {% if author.leetcode %}
+        <li><a href="https://leetcode.com/u/{{ author.leetcode }}"><img src="/images/leetcode.png" style="width: 16px; transform: translateX(-1px); padding-right: 0.2em; margin-right: 0.55em;"></i>Leetcode</a></li>
+      {% endif %}
 
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
