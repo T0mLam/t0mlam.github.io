@@ -181,7 +181,7 @@ gallery:
 Read this article if you are a prospective Warwick IFP student who wants to know how to get accepted to Imperial or UCL CS. 😳 **#ValuableInsights**
 
 > ℹ️ **Note** <br>
-> I'm writing this blog as a former IFP student. The views expressed here are my own and do not represent the Warwick Foundation Department.
+> I'm writing this blog as a former IFP student. The views expressed here are my own and do not represent the Warwick Foundation Studies Department.
 
 # Sorry but you might be disappointed 
 
