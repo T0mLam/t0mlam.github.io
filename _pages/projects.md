@@ -12,11 +12,66 @@ gallery:
     image_path: projects/lenet-5-from-scratch/architecture.png
     alt: "The LeNet-5 CNN Architecture"
     title: "The LeNet-5 CNN Architecture"
-sidebar: 
+sidebar:
   nav: "projects"
 ---
 
 As I am interested in computer vision and deep learning, much of my time is spent on creating side projects or re-implementing papers. Below you will find my recent projects that I did during my free time outside classes or on vacations which I am very proud of. 😆
+
+---
+
+<!-- Candycombs -->
+
+<div class='title' id='candycombs' style='margin-bottom: -10px;'>
+  <h1 class='halloween-launch'>🍬Candycombs</h1>
+  <div class='widgets'>
+    <a href="https://github.com/BRSY1/candycombs">
+      <i class="fab fa-github button"></i>
+    </a>
+  </div>
+</div>
+
+<div class='badges'>
+  <!--<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>-->
+  <img src='/images/projects/candycombs/pygame_logo.png' width='80px' valign='center'>
+</div>
+
+A 2D Halloween-themed game featuring various mini-games. Players collect candies by exploring rooms, answering trivia questions, trying their luck at the roulette table, and opening chests to gain power-ups.
+
+## Contributors
+
+<table class="team-table">
+  <tr align="center" valign="top">
+    <td width="14.29%"><a href="https://github.com/archiekind"><img src="https://avatars.githubusercontent.com/archiekind" width="80" height="80"><br><b>Archie 🎃</b></a></td>
+    <td width="14.29%"><a href="https://github.com/hrsh9486"><img src="https://avatars.githubusercontent.com/hrsh9486" width="80" height="80"><br><b>Harish 👻</b></a></td>
+    <td width="14.29%"><a href="https://github.com/rsh-e"><img src="https://avatars.githubusercontent.com/rsh-e" width="80" height="80"><br><b>Hrushikesh 🧛</b></a></td>
+    <td width="14.29%"><a href="https://github.com/jwdlb"><img src="https://avatars.githubusercontent.com/jwdlb" width="80" height="80"><br><b>Jack 🦇</b></a></td>
+    <td width="14.29%"><a href="https://github.com/joshjkns"><img src="https://avatars.githubusercontent.com/joshjkns" width="80" height="80"><br><b>Josh 🕸️</b></a></td>
+    <td width="14.29%"><a href="https://github.com/kshubham-108"><img src="https://avatars.githubusercontent.com/kshubham-108" width="80" height="80"><br><b>Shubham 🧙</b></a></td>
+    <td width="14.29%"><a href="https://github.com/T0mLam"><img src="https://avatars.githubusercontent.com/T0mLam" width="80" height="80"><br><b>Tom 🎃</b></a></td>
+  </tr>
+</table>
+
+## Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/BRSY1/candycombs.git
+cd candycombs
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Launch the game
+
+```bash
+python3 test.py
+```
 
 ---
 
@@ -43,6 +98,7 @@ As I am interested in computer vision and deep learning, much of my time is spen
 </div>
 
 Semantic segmentation of the [Multi-Source Satellite Imagery for Segmentation Dataset](https://www.kaggle.com/datasets/hammadjavaid/multi-source-satellite-imagery-for-segmentation/data) with [UNet](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) and [ResUNet-a](https://arxiv.org/abs/1904.00592) (a variant of ResUNet) in PyTorch.
+
 <!--
  This repository holds the first PyTorch implementation of the ResUNet-a d6 model on Github.[^1]
 -->
@@ -169,5 +225,77 @@ python -m experiment
   .button:hover {
     transform: scale(1.2);
     color: #192BC2;
+  }
+
+  .team-table {
+    background-color: #ffffff; /* light background */
+    color: #f1c40f; /* Halloween yellow text color */
+    border: 2px solid #ff7518; /* Orange border */
+    border-radius: 10px;
+    padding: 15px;
+  }
+
+  .team-table td {
+    padding: 10px;
+  }
+
+  .team-table a {
+    color: #f1c40f;
+    text-decoration: none;
+  }
+
+  .team-table img {
+    border-radius: 50%;
+    box-shadow: 0px 4px 10px rgba(255, 117, 24, 0.5); /* Orange glow */
+  }
+
+  .team-table b {
+    font-size: 1em;
+    display: block;
+    margin-top: 8px;
+    color: #f39c12; /* Pumpkin orange color */
+  }
+
+  /* Add a subtle hover effect for spooky touch */
+  .team-table td:hover {
+    background-color: #3e3b41;
+    transition: background-color 0.3s ease;
+  }
+
+  /* Emoji bounce for extra Halloween vibe */
+  .team-table b::after {
+    content: ' 🎃';
+    display: inline-block;
+    animation: bounce 1.5s infinite;
+  }
+
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-8px);
+    }
+    60% {
+      transform: translateY(-4px);
+    }
+  }
+
+  .halloween-launch {
+    color: #ff7518;
+    text-shadow: 0 0px 2px #ff7518, 0 0px 4px #ff7518, 0 0 6px #ff7518;
+    animation: flicker 1.2s infinite alternate;
+  }
+
+  @keyframes flicker {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.8;
+    }
+    100% {
+      opacity: 1;
+    }
   }
 </style>

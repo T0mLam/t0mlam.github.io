@@ -26,6 +26,8 @@ main:
 projects:
   - title: "highlights"
     children:
+      - title: "Candycombs"
+        url: /projects/#candycombs
       - title: "Land Cover Segmentation"
         url: /projects/#land
       - title: "LeNet-5 From Scratch"
