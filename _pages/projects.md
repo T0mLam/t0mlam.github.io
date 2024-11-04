@@ -33,8 +33,10 @@ As I am interested in computer vision and deep learning, much of my time is spen
 
 <div class='badges'>
   <!--<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>-->
-  <img src='/images/projects/candycombs/pygame_logo.png' width='80px' valign='center'>
+  <img src='/images/projects/candycombs/pygame_logo.png' width='80px' style='margin-top: -10px;'>
 </div>
+
+<p class="event-info">Bristol CSS GameJam 2024</p>
 
 A 2D Halloween-themed game featuring various mini-games. Players collect candies by exploring rooms, answering trivia questions, trying their luck at the roulette table, and opening chests to gain power-ups.
 
@@ -297,5 +299,10 @@ python -m experiment
     100% {
       opacity: 1;
     }
+  }
+  .event-info {
+    color: #6e6e6e;
+    font-style: italic;
+    font-weight: bold;
   }
 </style>
