@@ -40,6 +40,10 @@ As I am interested in computer vision and deep learning, much of my time is spen
 
 A 2D Halloween-themed game featuring various mini-games. Players collect candies by exploring rooms, answering trivia questions, trying their luck at the roulette table, and opening chests to gain power-ups.
 
+<video width="100%" controls>
+  <source src="/images/projects/candycombs/candycombs_gameplay.mp4" type="video/mp4">
+</video>
+
 ## Contributors
 
 <table class="team-table">
