@@ -26,7 +26,7 @@ As I am interested in computer vision and deep learning, much of my time is spen
   <h1 class='halloween-launch'>🍬Candycombs</h1>
   <div class='widgets'>
     <a href="https://github.com/BRSY1/candycombs">
-      <i class="fab fa-github button"></i>
+      <i class="fab fa-github halloween-button"></i>
     </a>
   </div>
 </div>
@@ -36,7 +36,7 @@ As I am interested in computer vision and deep learning, much of my time is spen
   <img src='/images/projects/candycombs/pygame_logo.png' width='80px' style='margin-top: -10px;'>
 </div>
 
-<p class="event-info">Bristol CSS GameJam 2024</p>
+<p class="event-info">Bristol CSS 24-Hour GameJam 2024</p>
 
 A 2D Halloween-themed game featuring various mini-games. Players collect candies by exploring rooms, answering trivia questions, trying their luck at the roulette table, and opening chests to gain power-ups.
 
@@ -239,6 +239,8 @@ python -m experiment
     border: 2px solid #ff7518; /* Orange border */
     border-radius: 10px;
     padding: 15px;
+    margin: 0px auto;
+    max-width: 95%;
   }
 
   .team-table td {
@@ -303,6 +305,18 @@ python -m experiment
     100% {
       opacity: 1;
     }
+  }
+
+  .halloween-button {
+    display: inline-block;
+    font-size: 20px;
+    color: #FD7F20;
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+
+  .halloween-button:hover {
+    transform: scale(1.2);
+    color: #944F00;
   }
   .event-info {
     color: #6e6e6e;
