@@ -46,17 +46,19 @@ A 2D Halloween-themed game featuring various mini-games. Players collect candies
 
 ## Contributors
 
-<table class="team-table">
-  <tr align="center" valign="top">
-    <td width="14.29%"><a href="https://github.com/archiekind"><img src="https://avatars.githubusercontent.com/archiekind" width="80" height="80"><br><b>Archie 🎃</b></a></td>
-    <td width="14.29%"><a href="https://github.com/hrsh9486"><img src="https://avatars.githubusercontent.com/hrsh9486" width="80" height="80"><br><b>Harish 👻</b></a></td>
-    <td width="14.29%"><a href="https://github.com/rsh-e"><img src="https://avatars.githubusercontent.com/rsh-e" width="80" height="80"><br><b>Hrushikesh 🧛</b></a></td>
-    <td width="14.29%"><a href="https://github.com/jwdlb"><img src="https://avatars.githubusercontent.com/jwdlb" width="80" height="80"><br><b>Jack 🦇</b></a></td>
-    <td width="14.29%"><a href="https://github.com/joshjkns"><img src="https://avatars.githubusercontent.com/joshjkns" width="80" height="80"><br><b>Josh 🕸️</b></a></td>
-    <td width="14.29%"><a href="https://github.com/kshubham-108"><img src="https://avatars.githubusercontent.com/kshubham-108" width="80" height="80"><br><b>Shubham 🧙</b></a></td>
-    <td width="14.29%"><a href="https://github.com/T0mLam"><img src="https://avatars.githubusercontent.com/T0mLam" width="80" height="80"><br><b>Tom 🎃</b></a></td>
-  </tr>
-</table>
+<div class="team-table-responsive">
+  <table class="team-table">
+    <tr align="center" valign="top">
+      <td><a href="https://github.com/archiekind"><img src="https://avatars.githubusercontent.com/archiekind" width="80" height="80"><br><b>Archie 🎃</b></a></td>
+      <td><a href="https://github.com/hrsh9486"><img src="https://avatars.githubusercontent.com/hrsh9486" width="80" height="80"><br><b>Harish 👻</b></a></td>
+      <td><a href="https://github.com/rsh-e"><img src="https://avatars.githubusercontent.com/rsh-e" width="80" height="80"><br><b>Hrushikesh 🧛</b></a></td>
+      <td><a href="https://github.com/jwdlb"><img src="https://avatars.githubusercontent.com/jwdlb" width="80" height="80"><br><b>Jack 🦇</b></a></td>
+      <td><a href="https://github.com/joshjkns"><img src="https://avatars.githubusercontent.com/joshjkns" width="80" height="80"><br><b>Josh 🕸️</b></a></td>
+      <td><a href="https://github.com/kshubham-108"><img src="https://avatars.githubusercontent.com/kshubham-108" width="80" height="80"><br><b>Shubham 🧙</b></a></td>
+      <td><a href="https://github.com/T0mLam"><img src="https://avatars.githubusercontent.com/T0mLam" width="80" height="80"><br><b>Tom 🎃</b></a></td>
+    </tr>
+  </table>
+</div>
 
 ## Installation
 
@@ -233,14 +235,18 @@ python -m experiment
     color: #192BC2;
   }
 
+  .team-table-responsive {
+    display: block;
+    overflow: auto;
+    width: 100%;
+  }
+
   .team-table {
     background-color: #ffffff; /* light background */
     color: #f1c40f; /* Halloween yellow text color */
     border: 2px solid #ff7518; /* Orange border */
     border-radius: 10px;
     padding: 15px;
-    margin: 0px auto;
-    max-width: 95%;
   }
 
   .team-table td {
