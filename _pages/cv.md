@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-<iframe src="/files/cv.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 <a href="/files/cv.pdf">
-  <button class="btn btn--inverse">Download my CV</button>
+  <button class="btn btn--info">Download my CV</button>
 </a>
+
+<iframe src="/files/cv.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
  
 <!---
 Education
