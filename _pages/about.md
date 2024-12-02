@@ -23,7 +23,7 @@ I'm Tom, a ...
 # Recent work
 
 <span style="color:#a6acb2; font-size: smaller;"><b>Dec 2024 - Present</b></span><br>
-<span style="font-size: smaller;">Solving daily <a href="https://adventofcode.com"><b>Advent of Code</b></a> problems with <b>Haskell [λ]</b>.</span><br>
+<span style="font-size: smaller;">Solving daily <a href="https://adventofcode.com"><b>Advent of Code</b></a> problems with <b>Haskell</b>. [<a href="https://github.com/T0mLam/advent-of-code-2024" style="color: #5e5086;"><b>λ</b></a>]</span><br>
 
 
 # More about me ...
