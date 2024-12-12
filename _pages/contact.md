@@ -63,20 +63,28 @@ comments: false
       color: #333; 
       box-sizing: border-box;"
   ></textarea>
-  <button 
-    type="submit" 
-    style="
-      width: 100%; 
-      padding: 10px; 
-      background-color: #52adc8; 
-      color: white; 
-      border: none; 
-      border-radius: 10px; 
-      cursor: pointer; 
-      font-size: 16px; 
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      transition: box-shadow 0.3s ease, background-color 0.3s ease;"
-  >
-    Send
-  </button>
+  <div style="display: flex; justify-content: center;">
+    <button 
+      type="submit" 
+      style="
+        width: 20%; 
+        padding: 10px; 
+        background-color: #52adc8; 
+        color: white; 
+        border: none; 
+        border-radius: 20px; 
+        cursor: pointer; 
+        font-size: 16px; 
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
+    >
+      Send
+    </button>
+  </div>
 </form>
+
+<style>
+  button:hover {
+    transform: scale(1.075); 
+    transition: all 0.3s ease; 
+  }
+</style>
