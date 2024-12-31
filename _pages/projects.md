@@ -20,6 +20,36 @@ As I am interested in computer vision and deep learning, much of my time is spen
 
 ---
 
+<!-- claude-haskell -->
+
+<div class='title' id='claude-haskell' style='margin-bottom: -10px;'>
+  <h1>Claude-haskell</h1>
+  <div class='widgets'>
+    <a href="https://github.com/T0mLam/claude-haskell">
+      <i class="fab fa-github button"></i>
+    </a>
+  </div>
+</div>
+
+<div class='badges'>
+  <img src='https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white'>
+</div>
+
+__claude-haskell is an unofficial binding for Anthropic's Claude API. This project has not been reviewed or published as an official package.__
+
+This library provides Haskell functions to interact with the Claude API, including sending text messages, images, pdf documents, listing and retrieving model information, and create message batches. It includes utilities and types for building API requests and handling responses.
+
+<div class="widgets">
+  <a href="https://github.com/T0mLam/claude-haskell#readme">
+    <button class="btn btn--inverse">Read installation and usage guide</button>
+  </a> 
+  <a href="https://docs.anthropic.com/en/api/getting-started">
+  <button class="btn btn--inverse">Read Anthropic's API docs</button>
+  </a>
+</div>
+
+---
+
 <!-- Candycombs -->
 
 <div class='title' id='candycombs' style='margin-bottom: -10px;'>

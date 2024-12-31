@@ -29,6 +29,8 @@ main:
 projects:
   - title: "highlights"
     children:
+      - title: "Claude-haskell"
+        url: /projects/#claude-haskell
       - title: "Candycombs"
         url: /projects/#candycombs
       - title: "Land Cover Segmentation"
