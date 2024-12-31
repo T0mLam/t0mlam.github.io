@@ -23,10 +23,8 @@ I'm Tom, a ...
 # Recent work
 
 <span style="color:#a6acb2; font-size: smaller;"><b>Dec 2024 - Present</b></span><br>
-<span style="font-size: smaller;">Working on a Haskell wrapper for <a href="https://docs.anthropic.com/en/release-notes/api" style="color:rgb(214, 178, 147);"><b>Anthropic’s API</b></a>.</span><br>
+<span style="font-size: smaller;">Working on a Haskell wrapper for <a href="https://docs.anthropic.com/en/release-notes/api" style="color:rgb(51, 32, 64);"><b>Anthropic's Claude API</b></a>. [<a href="https://github.com/T0mLam/claude-haskell" style="color: #5e5086;"><b>λ</b></a>]</span><br>
 <span style="font-size: smaller;">Co-developing <b>BristolLink</b> for Valentine's Day, inspired by <a href="https://stanforddaily.com/2020/08/07/new-stanford-link-website-connects-students-with-mutual-crushes/" style="color:rgb(51, 32, 64);"><b>Link</b></a>.</span><br>
-<span style="font-size: smaller;">Solving <a href="https://adventofcode.com"><b>Advent of Code</b></a> problems with <b>Haskell</b>. [<a href="https://github.com/T0mLam/advent-of-code-2024" style="color: #5e5086;"><b>λ</b></a>]</span><br>
-
 
 # More about me ...
 
