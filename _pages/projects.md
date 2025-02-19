@@ -20,6 +20,43 @@ As I am interested in computer vision and deep learning, much of my time is spen
 
 ---
 
+<!-- bristollink -->
+<div class='title' id='bristollink' style='margin-bottom: -10px;'>
+  <h1 class="pink-gradient-title">BristolLink</h1>
+  <div class='widgets'>
+    <a href="https://bristollink.uk">
+      <i class="fa-regular fa-globe pink-icon"></i>
+    </a>
+  </div>
+</div>
+
+<div class='badges'>
+  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
+  <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'>
+  <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'>
+  <img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'>
+</div>
+
+An anonymous match-making platform for University of Bristol student during Valentine's Day 2025.
+
+<img src='/images/projects/bristollink/pages.png'>
+
+<h2>How does <span style="color: #ff7eb3;">Link</span> work?</h2>
+
+**1. Enter their Email**
+
+Find their UoB email through Outlook and submit it through Bristol Link. They'll receive an anonymous notification that someone is interested.
+
+**2. Wait for their Response**
+
+If they're interested, they'll log into Bristol Link and enter an email address of their own choice.
+
+**3. Check for a Match**
+
+If the emails match, you both receive confirmation and can start your story. If not, you'll be notified and can try with someone new.
+
+--- 
+
 <!-- ecosim -->
 <div class='title' id='ecosim' style='margin-bottom: -10px;'>
   <h1>EcoSim</h1>
@@ -289,7 +326,11 @@ python -m experiment
   }
 
   .badges {
-    margin-top: 5px;
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
   }
 
   .widgets {
@@ -405,9 +446,24 @@ python -m experiment
     transform: scale(1.2);
     color: #944F00;
   }
+
   .event-info {
     color: #6e6e6e;
     font-style: italic;
     font-weight: bold;
+  }
+
+  .pink-gradient-title {
+    background: linear-gradient(to right,rgb(255, 117, 129), #ff7eb3); -webkit-background-clip: text; color: transparent;
+  }
+
+  .pink-icon {
+    color: #ff7eb3;
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+
+  .pink-icon:hover {
+    transform: scale(1.2);
+    color:rgb(209, 58, 111);
   }
 </style>
