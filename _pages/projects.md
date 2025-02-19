@@ -41,7 +41,7 @@ An anonymous match-making platform for University of Bristol student during Vale
 
 <img src='/images/projects/bristollink/pages.png'>
 
-<h2>How does <span style="color: #ff7eb3;">Link</span> work?</h2>
+<h2>How does <span><img class="link-logo" src="/images/projects/bristollink/logo.webp"></span> work?</h2>
 
 **1. Enter their Email**
 
@@ -465,5 +465,11 @@ python -m experiment
   .pink-icon:hover {
     transform: scale(1.2);
     color:rgb(209, 58, 111);
+  }
+
+  .link-logo {
+    width: 65px;
+    transform: translateY(-3px);
+    opacity: 75%;
   }
 </style>
