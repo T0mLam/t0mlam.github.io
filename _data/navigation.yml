@@ -29,6 +29,8 @@ main:
 projects:
   - title: "highlights"
     children:
+      - title: "EcoSim"
+        url: /projects/#ecosim
       - title: "Claude-haskell"
         url: /projects/#claude-haskell
       - title: "Candycombs"

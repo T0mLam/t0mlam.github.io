@@ -20,6 +20,57 @@ As I am interested in computer vision and deep learning, much of my time is spen
 
 ---
 
+<!-- ecosim -->
+<div class='title' id='ecosim' style='margin-bottom: -10px;'>
+  <h1>EcoSim</h1>
+  <div class='widgets'>
+    <a href="https://github.com/BRSY1/ecosim">
+      <i class="fab fa-github button"></i>
+    </a>
+  </div>
+</div>
+
+<div class='badges'>
+  <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'>
+  <img src='https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white'>
+</div>
+
+<p class="event-info">Best ML Project - BrisHack 2025</p>
+
+EcoSim is a Java-based simulation developed during BrisHack 2025. It models the interactions between various animal species and their environment, utilizing procedural terrain generation and intelligent agent behavior.
+
+<img src='/images/projects/ecosim/ecosim.png' width='100%'>
+
+## Features
+
+- **Procedural Terrain Generation**: Uses **Perlin noise** to create realistic and dynamic terrain landscapes.
+- **Animal AI with Monte Carlo Tree Search (MCTS)**: Animals use **MCTS-based decision-making** to move intelligently, avoiding predators, seeking food, and reproducing.
+- **Predator-Prey Dynamics**: Implements a food chain where animals interact based on hierarchical levels, engaging in hunting, fleeing, and breeding behaviors.
+- **Environmental Factors**: Includes terrain types that influence movement and survival.
+- **Graphical Interface**: Built using **JavaFX**, allowing users to visualize the ecosystem in real time.
+- **Event Logging and Statistics**: Displays ecosystem events and population statistics in real-time.
+
+## Running the app
+
+### Install Java Runtime Environment (JRE)
+
+You can download Java from the [official Oracle website](https://www.oracle.com/java/technologies/downloads/).
+
+### Install the EcoSim JAR file
+
+Download the pre-built JAR file from the [releases section](https://github.com/BRSY1/ecosim/releases)
+
+
+### Navigate to the directory with the JAR File
+
+Then run
+
+```bash
+java -jar ecosim-1.0.0.jar
+```
+
+---
+
 <!-- claude-haskell -->
 
 <div class='title' id='claude-haskell' style='margin-bottom: -10px;'>
