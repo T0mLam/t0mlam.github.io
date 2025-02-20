@@ -55,7 +55,7 @@ If they're interested, they'll log into Bristol Link and enter an email address 
 
 If the emails match, you both receive confirmation and can start your story. If not, you'll be notified and can try with someone new.
 
---- 
+---
 
 <!-- ecosim -->
 <div class='title' id='ecosim' style='margin-bottom: -10px;'>
@@ -78,6 +78,51 @@ EcoSim is a Java-based simulation developed during BrisHack 2025. It models the 
 
 <img src='/images/projects/ecosim/ecosim.png' width='100%'>
 
+## Contributors
+
+<div class="ecosim-team-container">
+    <table>
+        <tr>
+            <td class="ecosim-team-member">
+                <a href="https://github.com/archiekind">
+                    <img src="https://avatars.githubusercontent.com/archiekind">
+                    <b>Archie Kind</b>
+                </a>
+            </td>
+            <td class="ecosim-team-member">
+                <a href="https://github.com/hrsh9486">
+                    <img src="https://avatars.githubusercontent.com/hrsh9486">
+                    <b>Harish Rajkumar</b>
+                </a>
+            </td>
+            <td class="ecosim-team-member">
+                <a href="https://github.com/jwdlb">
+                    <img src="https://avatars.githubusercontent.com/jwdlb">
+                    <b>Jack Dempsey</b>
+                </a>
+            </td>
+            <td class="ecosim-team-member">
+                <a href="https://github.com/joshjkns">
+                    <img src="https://avatars.githubusercontent.com/joshjkns">
+                    <b>Josh Jenkins</b>
+                </a>
+            </td>
+            <td class="ecosim-team-member">
+                <a href="https://github.com/kshubham-108">
+                    <img src="https://avatars.githubusercontent.com/kshubham-108">
+                    <b>Shubham Kulkarni</b>
+                </a>
+            </td>
+            <td class="ecosim-team-member">
+                <a href="https://github.com/T0mLam">
+                    <img src="https://avatars.githubusercontent.com/T0mLam">
+                    <b>Tom Lam</b>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
 ## Features
 
 - **Procedural Terrain Generation**: Uses **Perlin noise** to create realistic and dynamic terrain landscapes.
@@ -96,7 +141,6 @@ You can download Java from the [official Oracle website](https://www.oracle.com/
 ### Install the EcoSim JAR file
 
 Download the pre-built JAR file from the [releases section](https://github.com/BRSY1/ecosim/releases)
-
 
 ### Navigate to the directory with the JAR File
 
@@ -123,7 +167,7 @@ java -jar ecosim-1.0.0.jar
   <img src='https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white'>
 </div>
 
-__claude-haskell is an unofficial binding for Anthropic's Claude API. This project has not been reviewed or published as an official package.__
+**claude-haskell is an unofficial binding for Anthropic's Claude API. This project has not been reviewed or published as an official package.**
 
 This library provides Haskell functions to interact with the Claude API, including sending text messages, images, pdf documents, listing and retrieving model information, and create message batches. It includes utilities and types for building API requests and handling responses.
 
@@ -471,5 +515,61 @@ python -m experiment
     width: 65px;
     transform: translateY(-3px);
     opacity: 75%;
+  }
+
+  .ecosim-team-container {
+    padding: 20px;
+    background-color: #f4f4ec;
+    border-radius: 15px;
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.1);
+    overflow: auto;
+  }
+
+  .ecosim-team-container table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+  }
+
+  .ecosim-team-container td {
+    padding: 10px;
+    white-space: nowrap;
+  }
+
+  .ecosim-team-member {
+    padding: 20px;
+    transition: background-color 0.3s ease-in-out, transform 0.2s;
+    border-radius: 10px;
+  }
+
+  .ecosim-team-member:hover {
+    background-color: #d9e6cc;
+    transform: scale(1.05);
+  }
+
+  .ecosim-team-member a {
+    text-decoration: none;
+    color: #2f613f;
+    display: inline-block;
+  }
+
+  .ecosim-team-member img {
+    width: 80px;
+    height: 80px;
+    max-width: 100%;
+    border-radius: 50%;
+    border: 3px solid #a3c09a;
+    transition: transform 0.3s;
+    object-fit: cover;
+  }
+
+  .ecosim-team-member:hover img {
+    transform: rotate(5deg);
+  }
+
+  .ecosim-team-member b {
+    display: block;
+    margin-top: 10px;
+    font-size: 16px;
   }
 </style>
