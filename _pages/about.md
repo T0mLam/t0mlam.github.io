@@ -12,7 +12,7 @@ I'm Tom, a ...
 
 📚 First year computer science student @ University of Bristol
 
-🏎️ Core team member @ Bristol Formula Student AI
+🏎️ Perception Team Lead @ Bristol Formula Student AI
 
 👨🏻‍💻 Computer vision and deep learning enthusiast
 
