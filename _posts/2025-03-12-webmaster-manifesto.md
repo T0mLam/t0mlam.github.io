@@ -32,4 +32,12 @@ I would sincerely appreciate your support by casting your vote for me. I would a
 
 # Endorsements
 
+<!-- **Archie Kind, Enci Toslluku, Harish Rajkumar, Hrushikesh Emkay, Josh Jenkins, Jack Dempsey, Shubham Kulkarni** - Members of [BRSY1](https://github.com/BRSY1)
+
+**Mohammed Ali** - Vice President of CSS 2024-2025
+
+**Gordon Kam** - Webmaster of CSS 2024-2025
+
+**Dylan Lin** - Perception Team Lead, Bristol Formula Student AI 2024-2025 -->
+
 <br/>
