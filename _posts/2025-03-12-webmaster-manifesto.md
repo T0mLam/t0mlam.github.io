@@ -4,6 +4,7 @@ date: 2025-03-12
 permalink: /posts/2025/03/webmaster-manifesto/
 toc: true 
 header:
+  image: /blogs/webmaster-manifesto/group-photo.jpg
   teaser: /blogs/webmaster-manifesto/group-photo.jpg
 tags:
   - Study Abroad
