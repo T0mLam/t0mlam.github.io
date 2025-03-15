@@ -3,6 +3,9 @@ title: "Tom for Webmaster 🔥"
 date: 2025-03-12
 permalink: /posts/2025/03/webmaster-manifesto/
 toc: true 
+header:
+  og_image: /blogs/webmaster-manifesto/group-photo.jpg
+  teaser: /blogs/webmaster-manifesto/group-photo.jpg
 tags:
   - Study Abroad
 excerpt: "Click here to read my webmaster manifesto"
@@ -32,12 +35,18 @@ I would sincerely appreciate your support by casting your vote for me. I would a
 
 # Endorsements
 
-<!-- **Archie Kind, Enci Toslluku, Harish Rajkumar, Hrushikesh Emkay, Josh Jenkins, Jack Dempsey, Shubham Kulkarni** - Members of [BRSY1](https://github.com/BRSY1)
+<div style="position: relative; width: fit-content; margin: 20px auto; text-align: center;">
+  <!-- Your original image -->
+  <img src="/images/blogs/webmaster-manifesto/group-photo.jpg" width="50%" style="border-radius: 5px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+</div>
 
-**Mohammed Ali** - Vice President of CSS 2024-2025
+| Endorser | Position |
+| :--------------- | :--------------- | 
+| Archie Kind, Enci Toslluku, Harish Rajkumar, Hrushikesh Emkay, Jack Dempsey, Josh Jenkins, Shubham Kulkarni | Members of [BRSY1](https://github.com/BRSY1), my BrisHack teammates |
+| Dylan Lin | Perception Team Lead, Bristol Formula Student AI 2024-2025 |
+| Gordon Kam | CSS Webmaster 2024-2025 |
+| Mohammed Ali | CSS Vice President 2024-2025 |
 
-**Gordon Kam** - Webmaster of CSS 2024-2025
-
-**Dylan Lin** - Perception Team Lead, Bristol Formula Student AI 2024-2025 -->
+**Huge thanks to everyone who has endorsed and supported me. Hope to see you all at the CSS AGM.**
 
 <br/>
