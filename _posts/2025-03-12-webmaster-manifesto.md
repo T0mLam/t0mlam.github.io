@@ -4,11 +4,15 @@ date: 2025-03-12
 permalink: /posts/2025/03/webmaster-manifesto/
 toc: true 
 header:
-  og_image: /blogs/webmaster-manifesto/group-photo.jpg
   teaser: /blogs/webmaster-manifesto/group-photo.jpg
 tags:
   - Study Abroad
 excerpt: "Click here to read my webmaster manifesto"
+gallery:
+  - url: /blogs/webmaster-manifesto/group-photo.jpg
+    image_path: /blogs/webmaster-manifesto/group-photo.jpg
+    title: "3/11/2024: Group photo of me and the BRSY1 team taken at the CSS GameJam 2024"
+    alt: "3/11/2024: Group photo of me and the BRSY1 team taken at the CSS GameJam 2024"
 ---
 
 Click [here](/posts/2025/03/webmaster-manifesto-chinese/) for the Chinese version.
@@ -35,10 +39,12 @@ I would sincerely appreciate your support by casting your vote for me. I would a
 
 # Endorsements
 
-<div style="position: relative; width: fit-content; margin: 20px auto; text-align: center;">
+<!-- <div style="position: relative; width: fit-content; margin: 20px auto; text-align: center;">
   <!-- Your original image -->
-  <img src="/images/blogs/webmaster-manifesto/group-photo.jpg" width="50%" style="border-radius: 5px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
-</div>
+  <!-- <img src="/images/blogs/webmaster-manifesto/group-photo.jpg" width="50%" style="border-radius: 5px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" /> -->
+<!-- </div> --> 
+
+{% include gallery %}
 
 | Endorser | Position |
 | :--------------- | :--------------- | 
