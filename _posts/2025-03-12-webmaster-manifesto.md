@@ -40,11 +40,6 @@ I would sincerely appreciate your support by casting your vote for me. I would a
 
 # Endorsements
 
-<!-- <div style="position: relative; width: fit-content; margin: 20px auto; text-align: center;">
-  <!-- Your original image -->
-  <!-- <img src="/images/blogs/webmaster-manifesto/group-photo.jpg" width="50%" style="border-radius: 5px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" /> -->
-<!-- </div> --> 
-
 {% include gallery %}
 
 | Endorser | Position |
@@ -53,6 +48,7 @@ I would sincerely appreciate your support by casting your vote for me. I would a
 | Dylan Lin | Perception Team Lead, Bristol Formula Student AI 2024-2025 |
 | Gordon Kam | CSS Webmaster 2024-2025 |
 | Mohammed Ali | CSS Vice President 2024-2025 |
+| Ryan Ho | Bristol HK-PASS Sub-commitee Member 2024-2025 |
 
 **Huge thanks to everyone who has endorsed and supported me. Hope to see you all at the CSS AGM.**
 

@@ -30,4 +30,16 @@ tags:
 
 若能得到大家的信任，我将以严谨态度来维护网站，定期收集反馈并及时迭代更新。让我们携手打造一个真正属于CS学子的数字家园，把网站做得更酷炫。我真诚地感谢您为我投票的支持。让我们一起让我们的 CS 社区更加紧密和包容。祝愿大家期末顺利，感谢你们的每一份支持！✨
 
+# 推荐与支持
+
+| 推荐人 | 职位 |
+| :--------------- | :--------------- | 
+| Archie Kind, Enci Toslluku, Harish Rajkumar, Hrushikesh Emkay, Jack Dempsey, Josh Jenkins, Shubham Kulkarni | [BRSY1](https://github.com/BRSY1) 成员，我的 BrisHack 比赛队友 |
+| Dylan Lin | 布里斯托学生方程式 AI 2024-2025 队长 |
+| Gordon Kam | 2024-2025 届计算机科学学会网站管理员 |
+| Mohammed Ali | 2024-2025 届计算机科学学会副会长 |
+| Ryan Ho | 2024-2025 届布里斯托香港学生协会委员会成员 |
+
+**衷心感谢所有推荐和支持我的伙伴。期待在 CSS 年度会员大会与各位相见。**
+
 <br/>
