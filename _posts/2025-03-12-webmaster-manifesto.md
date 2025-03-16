@@ -45,6 +45,7 @@ I would sincerely appreciate your support by casting your vote for me. I would a
 | Endorser | Position |
 | :--------------- | :--------------- | 
 | Archie Kind, Enci Toslluku, Harish Rajkumar, Hrushikesh Emkay, Jack Dempsey, Josh Jenkins, Shubham Kulkarni | Members of [BRSY1](https://github.com/BRSY1), my BrisHack teammates |
+| Dan Peppe | Co-president, Bristol Formula Student AI 2024-2025 |
 | Dylan Lin | Perception Team Lead, Bristol Formula Student AI 2024-2025 |
 | Gordon Kam | CSS Webmaster 2024-2025 |
 | Mohammed Ali | CSS Vice President 2024-2025 |

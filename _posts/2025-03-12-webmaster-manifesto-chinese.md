@@ -35,6 +35,7 @@ tags:
 | 推荐人 | 职位 |
 | :--------------- | :--------------- | 
 | Archie Kind, Enci Toslluku, Harish Rajkumar, Hrushikesh Emkay, Jack Dempsey, Josh Jenkins, Shubham Kulkarni | [BRSY1](https://github.com/BRSY1) 成员，我的 BrisHack 比赛队友 |
+| Dan Peppe | 布里斯托学生方程式 AI 2024-2025 主席 |
 | Dylan Lin | 布里斯托学生方程式 AI 2024-2025 队长 |
 | Gordon Kam | 2024-2025 届计算机科学学会网站管理员 |
 | Mohammed Ali | 2024-2025 届计算机科学学会副会长 |
