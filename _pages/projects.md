@@ -44,6 +44,8 @@ ChronoChat is a UI for Ollama that enables users to chat with video content usin
   Sorry, your browser doesn’t support embedded videos.
 </video>
 
+<br />
+
 ---
 
 <!-- bristollink -->
@@ -228,7 +230,7 @@ This library provides Haskell functions to interact with the Claude API, includi
 
 A 2D Halloween-themed game featuring various mini-games. Players collect candies by exploring rooms, answering trivia questions, trying their luck at the roulette table, and opening chests to gain power-ups.
 
-<video width="100%" controls>
+<video width="100%" controls autoplay muted loop>
   <source src="/images/projects/candycombs/candycombs_gameplay.mp4" type="video/mp4">
 </video>
 
