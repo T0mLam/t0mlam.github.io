@@ -20,6 +20,32 @@ As I am interested in computer vision and deep learning, much of my time is spen
 
 ---
 
+<!-- ChronoChat -->
+<div class='title' id='chrono-chat' style='margin-bottom: -10px;'>
+  <h1>ChronoChat</h1>
+  <div class='widgets'>
+    <a href="https://github.com/T0mLam/chrono-chat">
+      <i class="fab fa-github button"></i>
+    </a>
+  </div>
+</div>
+
+<div class='badges'>
+  <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
+  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'>
+  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'>
+  <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'>
+  <img src='https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi'>
+</div>  
+
+ChronoChat is a UI for Ollama that enables users to chat with video content using non vision/video-language models (VLMs). It supports both YouTube and local uploads and uses retrieval-augmented generation (RAG) to answer questions using video transcripts, frames, and captions. Powered by local LLMs, ChronoChat streams real-time responses with additional support for images and PDF uploads.
+
+<video src="/images/projects/chrono-chat/demo.mp4" width="100%" controls autoplay muted loop>
+  Sorry, your browser doesn’t support embedded videos.
+</video>
+
+---
+
 <!-- bristollink -->
 <div class='title' id='bristollink' style='margin-bottom: -10px;'>
   <h1 class="pink-gradient-title">BristolLink</h1>

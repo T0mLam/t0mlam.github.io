@@ -29,6 +29,8 @@ main:
 projects:
   - title: "highlights"
     children:
+      - title: "ChronoChat"
+        url: /projects/#chrono-chat
       - title: "BristolLink"
         url: /projects/#bristollink
       - title: "EcoSim"
